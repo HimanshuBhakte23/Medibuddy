@@ -11,7 +11,11 @@ import os
 import sqlite3
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DB_PATH = os.path.join(BASE_DIR, "medibuddy.db")
+# Vercel's project folder is read-only; /tmp is the only writable location.
+if os.environ.get("VERCEL"):
+    DB_PATH = "/tmp/medibuddy.db"
+else:
+    DB_PATH = os.path.join(BASE_DIR, "medibuddy.db")
 DISEASE_SEED_FILE = os.path.join(BASE_DIR, "diseases_seed.json")
 SYNONYM_SEED_FILE = os.path.join(BASE_DIR, "synonyms_seed.json")
 
