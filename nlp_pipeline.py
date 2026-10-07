@@ -13,7 +13,19 @@ a single, lighter dependency to install; the pipeline stages are the same).
 """
 
 import re
+import os
 import nltk
+
+# Make sure NLTK can find data installed in the user's AppData folder
+nltk_data_path = os.path.join(
+    os.path.expanduser("~"),
+    "AppData",
+    "Roaming",
+    "nltk_data"
+)
+
+if os.path.exists(nltk_data_path):
+    nltk.data.path.append(nltk_data_path)
 
 # ---------------------------------------------------------------------------
 # One-time NLTK data setup
@@ -21,21 +33,37 @@ import nltk
 # These downloads only actually happen once per machine (NLTK caches them
 # under ~/nltk_data). An internet connection is needed the first time only.
 
+
 _REQUIRED_NLTK_PACKAGES = [
     ("tokenizers/punkt_tab", "punkt_tab"),
     ("taggers/averaged_perceptron_tagger_eng", "averaged_perceptron_tagger_eng"),
     ("corpora/wordnet", "wordnet"),
-    ("corpora/omw-1.4", "omw-1.4"),
     ("corpora/stopwords", "stopwords"),
 ]
 
 
 def ensure_nltk_data():
+    missing = []
+
     for find_path, package_name in _REQUIRED_NLTK_PACKAGES:
         try:
             nltk.data.find(find_path)
         except LookupError:
-            nltk.download(package_name, quiet=True)
+            # WordNet can also be installed as a ZIP archive.
+            if package_name == "wordnet":
+                try:
+                    nltk.data.find("corpora/wordnet.zip")
+                    continue
+                except LookupError:
+                    pass
+
+            missing.append(package_name)
+
+    if missing:
+        raise LookupError(
+            "Missing NLTK packages: " + ", ".join(missing)
+            + ". Install them before starting the app."
+        )
 
 
 ensure_nltk_data()
