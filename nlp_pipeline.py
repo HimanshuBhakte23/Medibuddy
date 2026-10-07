@@ -17,15 +17,12 @@ import os
 import nltk
 
 # Make sure NLTK can find data installed in the user's AppData folder
-nltk_data_path = os.path.join(
-    os.path.expanduser("~"),
-    "AppData",
-    "Roaming",
-    "nltk_data"
-)
+# Make sure NLTK can find the bundled data on Vercel
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+nltk_data_path = os.path.join(BASE_DIR, "nltk_data")
 
 if os.path.exists(nltk_data_path):
-    nltk.data.path.append(nltk_data_path)
+    nltk.data.path.insert(0, nltk_data_path)
 
 # ---------------------------------------------------------------------------
 # One-time NLTK data setup
