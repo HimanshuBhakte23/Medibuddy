@@ -1,0 +1,1206 @@
+[
+  {
+    "name": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "sore throat",
+      "mild cough",
+      "congestion",
+      "mild headache",
+      "watery eyes"
+    ],
+    "info": "A mild viral infection of the nose and throat. It is very common and usually clears up on its own within a week to ten days.",
+    "medicine_info": "General OTC options people commonly use include decongestants, saline nasal spray, and simple pain relievers for comfort. This is general information only, not a personal prescription — check with a pharmacist or doctor before taking anything.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Rest and get enough sleep",
+      "Drink plenty of fluids",
+      "Use steam inhalation or a humidifier",
+      "Avoid close contact with others to prevent spreading it",
+      "Wash hands frequently"
+    ],
+    "warning_signs": [
+      "High fever above 103°F (39.4°C)",
+      "Symptoms lasting more than 10 days",
+      "Severe sinus pain",
+      "Difficulty breathing"
+    ]
+  },
+  {
+    "name": "Influenza (Flu)",
+    "symptoms": [
+      "fever",
+      "chills",
+      "body ache",
+      "fatigue",
+      "dry cough",
+      "headache",
+      "sore throat",
+      "muscle pain"
+    ],
+    "info": "A contagious viral infection that affects the respiratory system, generally more intense than a common cold and coming on more suddenly.",
+    "medicine_info": "General fever/pain relief medicine and rest are commonly used for comfort. This is general information only — dosage and choice of medicine should be confirmed with a doctor or pharmacist.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Rest as much as possible",
+      "Stay hydrated",
+      "Isolate from others while contagious",
+      "Monitor temperature regularly",
+      "Use a humidifier for comfort"
+    ],
+    "warning_signs": [
+      "Difficulty breathing or shortness of breath",
+      "Persistent chest pain or pressure",
+      "Confusion",
+      "Severe or persistent vomiting",
+      "Bluish lips or face"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": [
+      "sneezing",
+      "itchy eyes",
+      "runny nose",
+      "nasal congestion",
+      "itchy throat",
+      "watery eyes"
+    ],
+    "info": "An allergic reaction causing inflammation inside the nose, typically triggered by pollen, dust, or pet dander.",
+    "medicine_info": "Antihistamines and nasal sprays are commonly used to manage symptoms. This is general educational information — a doctor or pharmacist should confirm what is suitable.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Identify and avoid known triggers",
+      "Keep windows closed during high pollen periods",
+      "Use air purifiers if available",
+      "Wash bedding regularly",
+      "Rinse nasal passages with saline"
+    ],
+    "warning_signs": [
+      "Swelling of face, lips, or throat",
+      "Difficulty breathing",
+      "Wheezing"
+    ]
+  },
+  {
+    "name": "Migraine",
+    "symptoms": [
+      "severe headache",
+      "nausea",
+      "sensitivity to light",
+      "sensitivity to sound",
+      "throbbing pain",
+      "vomiting",
+      "visual disturbance"
+    ],
+    "info": "A neurological condition causing intense, often throbbing headaches, usually on one side of the head, sometimes preceded by visual disturbances.",
+    "medicine_info": "General pain relief may help mild episodes. This is general information only, not a personalized treatment plan — a doctor should be consulted for recurring migraines.",
+    "doctor": "Neurologist",
+    "precautions": [
+      "Rest in a quiet, dark room",
+      "Stay hydrated",
+      "Track and avoid personal triggers (certain foods, stress, lack of sleep)",
+      "Maintain a regular sleep schedule"
+    ],
+    "warning_signs": [
+      "Sudden, extremely severe headache unlike previous ones",
+      "Headache with fever and stiff neck",
+      "Headache after a head injury",
+      "Weakness, numbness, or confusion"
+    ]
+  },
+  {
+    "name": "Gastritis",
+    "symptoms": [
+      "stomach pain",
+      "bloating",
+      "nausea",
+      "loss of appetite",
+      "indigestion",
+      "burning sensation in stomach"
+    ],
+    "info": "Inflammation of the stomach lining, which can cause discomfort, bloating, and nausea, often linked to diet, stress, or infection.",
+    "medicine_info": "Antacids are commonly used for temporary relief. This is general information only — a doctor should evaluate persistent stomach issues.",
+    "doctor": "Gastroenterologist",
+    "precautions": [
+      "Eat smaller, more frequent meals",
+      "Avoid spicy, oily, or acidic foods",
+      "Avoid alcohol and smoking",
+      "Avoid lying down immediately after eating"
+    ],
+    "warning_signs": [
+      "Vomiting blood or material that looks like coffee grounds",
+      "Black or tarry stools",
+      "Severe abdominal pain",
+      "Unexplained weight loss"
+    ]
+  },
+  {
+    "name": "Food Poisoning",
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "stomach cramps",
+      "fever",
+      "weakness"
+    ],
+    "info": "An illness caused by eating contaminated food, usually leading to digestive symptoms that begin within hours to a few days of eating.",
+    "medicine_info": "Oral rehydration solutions are generally recommended to prevent dehydration. This is general information only — a doctor should be consulted if symptoms are severe or prolonged.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Drink oral rehydration solution or clear fluids",
+      "Rest and avoid solid food until nausea eases",
+      "Reintroduce bland food gradually (rice, toast, bananas)",
+      "Maintain good hand and food hygiene"
+    ],
+    "warning_signs": [
+      "Signs of severe dehydration (very little urination, dizziness)",
+      "Blood in vomit or stool",
+      "High fever",
+      "Diarrhea lasting more than 3 days"
+    ]
+  },
+  {
+    "name": "Conjunctivitis (Pink Eye)",
+    "symptoms": [
+      "red eyes",
+      "itchy eyes",
+      "watery eyes",
+      "eye discharge",
+      "gritty feeling in eye",
+      "swollen eyelid"
+    ],
+    "info": "Inflammation of the thin membrane covering the white of the eye and inner eyelid, often caused by infection or allergy, commonly known as pink eye.",
+    "medicine_info": "Lubricating eye drops may relieve discomfort. This is general information only — an eye specialist should confirm treatment, especially since some types are contagious.",
+    "doctor": "Ophthalmologist",
+    "precautions": [
+      "Avoid touching or rubbing the eyes",
+      "Wash hands frequently",
+      "Do not share towels, pillows, or eye makeup",
+      "Use a clean, cool compress for comfort"
+    ],
+    "warning_signs": [
+      "Severe eye pain",
+      "Vision changes or vision loss",
+      "Intense redness with light sensitivity",
+      "Symptoms not improving after a few days"
+    ]
+  },
+  {
+    "name": "Skin Allergy (Contact Dermatitis / Urticaria)",
+    "symptoms": [
+      "itchy skin",
+      "skin rash",
+      "redness of skin",
+      "swelling",
+      "hives",
+      "dry skin"
+    ],
+    "info": "A reaction of the skin to an irritant or allergen, resulting in redness, itching, or raised bumps.",
+    "medicine_info": "Antihistamines or soothing lotions are commonly used for mild reactions. This is general information only — a doctor should evaluate persistent or severe skin reactions.",
+    "doctor": "Dermatologist",
+    "precautions": [
+      "Identify and avoid the triggering substance",
+      "Keep the affected area clean and dry",
+      "Avoid scratching the area",
+      "Use mild, fragrance-free soap and moisturizer"
+    ],
+    "warning_signs": [
+      "Swelling of the face, lips, or throat",
+      "Difficulty breathing",
+      "Rash spreading rapidly with fever",
+      "Blistering or open sores"
+    ]
+  },
+  {
+    "name": "Sinusitis",
+    "symptoms": [
+      "facial pain",
+      "nasal congestion",
+      "headache",
+      "thick nasal discharge",
+      "reduced sense of smell",
+      "pressure around eyes"
+    ],
+    "info": "Inflammation or swelling of the tissue lining the sinuses, often following a cold, leading to pressure and congestion around the face.",
+    "medicine_info": "Decongestants and saline rinses are commonly used for relief. This is general information only — a doctor should be consulted if symptoms persist beyond 10 days.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Use steam inhalation for congestion relief",
+      "Stay hydrated to thin mucus",
+      "Use a saline nasal rinse",
+      "Avoid allergens and irritants like smoke"
+    ],
+    "warning_signs": [
+      "High fever with facial swelling",
+      "Severe headache with vision changes",
+      "Symptoms lasting more than 10 days without improvement"
+    ]
+  },
+  {
+    "name": "Sore Throat (Pharyngitis)",
+    "symptoms": [
+      "sore throat",
+      "difficulty swallowing",
+      "scratchy throat",
+      "swollen glands",
+      "hoarse voice",
+      "mild fever"
+    ],
+    "info": "Inflammation of the throat, commonly caused by a viral infection, resulting in pain or irritation especially when swallowing.",
+    "medicine_info": "Warm salt water gargles and throat lozenges are commonly used for comfort. This is general information only — a doctor should evaluate a throat infection that does not improve.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Gargle with warm salt water",
+      "Drink warm fluids",
+      "Rest the voice",
+      "Use a humidifier"
+    ],
+    "warning_signs": [
+      "Difficulty breathing or swallowing",
+      "Drooling (in children)",
+      "High fever with rash",
+      "Symptoms lasting more than a week"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection (UTI)",
+    "symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "lower abdominal pain",
+      "urgent need to urinate"
+    ],
+    "info": "An infection affecting any part of the urinary system, most commonly the bladder, causing discomfort during urination.",
+    "medicine_info": "This condition typically needs a doctor's evaluation, as it's often treated with a prescribed antibiotic course. Do not self-medicate with antibiotics.",
+    "doctor": "General Physician / Urologist",
+    "precautions": [
+      "Drink plenty of water",
+      "Urinate frequently and avoid holding it in",
+      "Maintain good hygiene",
+      "Avoid irritants like harsh soaps in the genital area"
+    ],
+    "warning_signs": [
+      "Fever with chills",
+      "Back or side pain",
+      "Blood in urine",
+      "Nausea and vomiting alongside urinary symptoms"
+    ]
+  },
+  {
+    "name": "Tension Headache",
+    "symptoms": [
+      "dull headache",
+      "tightness around head",
+      "neck pain",
+      "scalp tenderness",
+      "mild headache"
+    ],
+    "info": "The most common type of headache, often described as a constant dull ache or tightness on both sides of the head, frequently linked to stress or posture.",
+    "medicine_info": "General pain relievers may provide temporary relief. This is general information only — frequent headaches should be discussed with a doctor.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Take short breaks from screens",
+      "Practice relaxation or stress-reduction techniques",
+      "Maintain good posture",
+      "Stay hydrated and keep a regular sleep schedule"
+    ],
+    "warning_signs": [
+      "Sudden, severe headache unlike any before",
+      "Headache with fever, stiff neck, or confusion",
+      "Headache following a head injury"
+    ]
+  },
+  {
+    "name": "Dehydration",
+    "symptoms": [
+      "excessive thirst",
+      "dry mouth",
+      "fatigue",
+      "dizziness",
+      "dark urine",
+      "reduced urination",
+      "headache"
+    ],
+    "info": "A condition that occurs when the body loses more fluids than it takes in, affecting normal bodily functions.",
+    "medicine_info": "Oral rehydration solutions or water with electrolytes are generally recommended. This is general information only — severe dehydration needs medical attention.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Drink water or oral rehydration solution steadily through the day",
+      "Avoid excess caffeine and alcohol",
+      "Rest in a cool environment",
+      "Increase fluids further in hot weather or during illness"
+    ],
+    "warning_signs": [
+      "Confusion or extreme drowsiness",
+      "Little or no urination for many hours",
+      "Rapid heartbeat",
+      "Sunken eyes or extreme dizziness on standing"
+    ]
+  },
+  {
+    "name": "Type 2 Diabetes",
+    "symptoms": [
+      "excessive thirst",
+      "frequent urination",
+      "increased hunger",
+      "blurred vision",
+      "slow healing wounds",
+      "fatigue",
+      "unexplained weight loss",
+      "tingling in hands or feet",
+      "high blood sugar reading"
+    ],
+    "info": "A long-term condition in which the body cannot use insulin properly, so blood sugar stays high. It is very common, often develops slowly, and can be controlled with diet, exercise and medicines.",
+    "medicine_info": "Diabetes is managed with doctor-prescribed tablets and/or insulin after blood tests. Never start, stop or change a dose on your own. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Diabetologist",
+    "precautions": [
+      "Get a blood sugar test (fasting and post-meal, HbA1c) done",
+      "Choose whole grains, vegetables and fewer sugary foods and sweets",
+      "Walk or exercise regularly (about 30 minutes most days)",
+      "Keep a healthy weight and check your feet daily for cuts",
+      "Take prescribed medicines on time and go for regular check-ups"
+    ],
+    "warning_signs": [
+      "Very high thirst with vomiting or fruity-smelling breath",
+      "Confusion, drowsiness or fainting",
+      "Wounds or foot sores that are not healing",
+      "Sudden vision loss",
+      "Chest pain or sudden weakness on one side"
+    ]
+  },
+  {
+    "name": "Hypertension (High Blood Pressure)",
+    "symptoms": [
+      "high blood pressure reading",
+      "headache",
+      "dizziness",
+      "blurred vision",
+      "palpitations",
+      "shortness of breath"
+    ],
+    "info": "A condition where the force of blood against artery walls stays too high. It often has no symptoms at all, which is why regular BP checks matter; left untreated it can damage the heart, brain and kidneys.",
+    "medicine_info": "Blood pressure is controlled with doctor-prescribed medicines plus lifestyle changes. Do not stop BP medicines suddenly or change them on your own. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Cardiologist",
+    "precautions": [
+      "Check blood pressure regularly at home or a clinic",
+      "Cut down on salt, pickles, papad and packaged/processed food",
+      "Exercise regularly and keep a healthy weight",
+      "Avoid smoking, tobacco and heavy alcohol",
+      "Manage stress and get enough sleep"
+    ],
+    "warning_signs": [
+      "Very severe headache with confusion or vision changes",
+      "Chest pain or pressure",
+      "Sudden weakness, numbness or trouble speaking",
+      "Shortness of breath",
+      "Blood pressure reading far above your usual range"
+    ]
+  },
+  {
+    "name": "Asthma",
+    "symptoms": [
+      "wheezing",
+      "shortness of breath",
+      "chest tightness",
+      "dry cough",
+      "cough at night"
+    ],
+    "info": "A long-term condition in which the airways become inflamed and narrow, causing wheezing, breathlessness and coughing. Triggers include dust, smoke, cold air, pollen, infections and exercise.",
+    "medicine_info": "Asthma is treated with doctor-prescribed inhalers (a quick-relief inhaler and often a daily controller). Use them exactly as prescribed. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Pulmonologist / General Physician",
+    "precautions": [
+      "Identify and avoid triggers such as dust, smoke and strong smells",
+      "Keep your prescribed inhaler with you at all times",
+      "Keep bedding clean and avoid smoke, incense and mosquito coils indoors",
+      "Do not smoke and avoid second-hand smoke",
+      "Follow your doctor's asthma action plan"
+    ],
+    "warning_signs": [
+      "Quick-relief inhaler is not helping",
+      "Lips or fingernails turning bluish",
+      "Unable to speak a full sentence because of breathlessness",
+      "Symptoms getting worse quickly",
+      "Nighttime attacks becoming more frequent"
+    ]
+  },
+  {
+    "name": "Pneumonia",
+    "symptoms": [
+      "fever",
+      "chills",
+      "cough with phlegm",
+      "shortness of breath",
+      "chest pain while breathing",
+      "fatigue",
+      "rapid breathing",
+      "loss of appetite"
+    ],
+    "info": "An infection that inflames the air sacs in one or both lungs, usually bacterial or viral. It ranges from mild to life-threatening and is more serious in young children, older adults and people with other illnesses.",
+    "medicine_info": "Pneumonia needs a doctor's assessment; antibiotics are prescribed only if the cause is bacterial. Do not self-treat with leftover antibiotics. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Pulmonologist",
+    "precautions": [
+      "See a doctor promptly for a proper diagnosis (often with a chest X-ray)",
+      "Rest and drink plenty of fluids",
+      "Complete any prescribed treatment fully",
+      "Avoid smoking and smoky environments",
+      "Ask your doctor about pneumonia and flu vaccines for high-risk people"
+    ],
+    "warning_signs": [
+      "Trouble breathing or fast breathing",
+      "Bluish lips or face",
+      "Confusion or extreme drowsiness",
+      "Very high or persistent fever",
+      "Chest pain that is getting worse"
+    ]
+  },
+  {
+    "name": "Acute Bronchitis",
+    "symptoms": [
+      "cough with phlegm",
+      "persistent cough",
+      "chest discomfort",
+      "wheezing",
+      "fatigue",
+      "sore throat",
+      "mild fever",
+      "body ache"
+    ],
+    "info": "Inflammation of the airways (bronchial tubes), usually after a cold or flu virus. The main sign is a cough that may bring up mucus and can linger for a few weeks.",
+    "medicine_info": "Most cases are viral and settle on their own, so antibiotics usually do not help. Honey-warm water, fluids and rest are common comfort measures. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Rest and drink plenty of warm fluids",
+      "Use steam inhalation or a humidifier",
+      "Avoid smoke, dust and strong fumes",
+      "Do not smoke",
+      "Wash hands often to avoid spreading infection"
+    ],
+    "warning_signs": [
+      "Cough lasting more than 3 weeks",
+      "Fever above 102°F (38.9°C) for several days",
+      "Shortness of breath or wheezing",
+      "Coughing up blood",
+      "Symptoms returning again and again"
+    ]
+  },
+  {
+    "name": "Tuberculosis (TB)",
+    "symptoms": [
+      "persistent cough",
+      "blood in sputum",
+      "night sweats",
+      "unexplained weight loss",
+      "fever",
+      "fatigue",
+      "loss of appetite",
+      "chest pain while breathing"
+    ],
+    "info": "A bacterial infection that mainly affects the lungs and spreads through the air when an infected person coughs. It is curable with a full, supervised course of treatment.",
+    "medicine_info": "TB must be diagnosed by tests (sputum test, chest X-ray). It is treated with a prescribed multi-drug course lasting many months — never stop early or skip doses. Free testing and treatment is available through government TB programmes. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Pulmonologist / Chest Physician",
+    "precautions": [
+      "Get tested if a cough lasts more than 2 weeks",
+      "Cover your mouth when coughing and keep rooms ventilated",
+      "Take every dose of prescribed treatment for the full duration",
+      "Eat nutritious food and avoid smoking and alcohol",
+      "Household contacts should be screened"
+    ],
+    "warning_signs": [
+      "Coughing up blood",
+      "Severe breathlessness",
+      "Rapid, unexplained weight loss",
+      "Missing doses or side effects such as yellow eyes or vomiting",
+      "Fever or cough returning during treatment"
+    ]
+  },
+  {
+    "name": "Dengue Fever",
+    "symptoms": [
+      "fever",
+      "severe headache",
+      "pain behind eyes",
+      "joint pain",
+      "muscle pain",
+      "skin rash",
+      "nausea",
+      "vomiting",
+      "fatigue"
+    ],
+    "info": "A mosquito-borne viral infection spread by the Aedes mosquito. It causes sudden high fever with severe body, joint and eye pain, and can drop platelet counts, so it needs monitoring.",
+    "medicine_info": "There is no specific cure; treatment is supportive. Doctors usually advise paracetamol for fever and plenty of fluids. Avoid aspirin and ibuprofen-type painkillers in suspected dengue, as they can raise bleeding risk. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Get a dengue test (NS1/IgM) and blood counts if fever with severe body pain occurs",
+      "Drink lots of fluids, ORS, coconut water and soups",
+      "Rest completely",
+      "Use mosquito nets/repellents and remove stagnant water around the home",
+      "Follow your doctor's advice on repeat blood tests"
+    ],
+    "warning_signs": [
+      "Severe stomach pain or persistent vomiting",
+      "Bleeding from the nose, gums, or blood in vomit/stool",
+      "Cold, clammy skin or extreme restlessness",
+      "Very drowsy or hard to wake",
+      "Fever dropping but you feel much worse (critical phase)"
+    ]
+  },
+  {
+    "name": "Malaria",
+    "symptoms": [
+      "fever",
+      "fever that comes and goes",
+      "chills",
+      "sweating",
+      "headache",
+      "nausea",
+      "vomiting",
+      "body ache",
+      "fatigue"
+    ],
+    "info": "A mosquito-borne parasitic infection spread by Anopheles mosquitoes. It typically causes fever with shivering and sweating that comes in cycles.",
+    "medicine_info": "Malaria must be confirmed with a blood test (smear or rapid test); antimalarial medicines are prescribed by a doctor based on the type. Do not self-medicate. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Infectious Disease Specialist",
+    "precautions": [
+      "Get a malaria blood test promptly if fever with chills occurs",
+      "Sleep under a mosquito net and use repellents",
+      "Remove stagnant water near the home",
+      "Wear full-sleeved clothes in the evening",
+      "Finish the full prescribed course"
+    ],
+    "warning_signs": [
+      "Confusion, drowsiness or seizures",
+      "Yellow eyes or skin",
+      "Difficulty breathing",
+      "Very low urine output",
+      "Persistent vomiting so you cannot keep medicine down"
+    ]
+  },
+  {
+    "name": "Typhoid Fever",
+    "symptoms": [
+      "fever",
+      "prolonged fever",
+      "stomach pain",
+      "weakness",
+      "headache",
+      "loss of appetite",
+      "constipation",
+      "diarrhea",
+      "dry cough"
+    ],
+    "info": "A bacterial infection (Salmonella Typhi) spread through contaminated food and water. Fever rises step by step over days, along with weakness and stomach upset.",
+    "medicine_info": "Typhoid needs a blood test and a doctor-prescribed antibiotic course. Do not stop early or self-medicate. Rest and plenty of fluids and ORS help. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Get a blood test (culture/Widal as advised) if fever lasts several days",
+      "Drink only boiled or safe, filtered water",
+      "Eat freshly cooked, hygienic food and avoid street food during illness",
+      "Wash hands with soap before eating and after the toilet",
+      "Ask your doctor about the typhoid vaccine"
+    ],
+    "warning_signs": [
+      "Severe stomach pain or swollen belly",
+      "Blood in stool or black stool",
+      "Confusion or extreme weakness",
+      "Persistent vomiting and dehydration",
+      "High fever not coming down despite treatment"
+    ]
+  },
+  {
+    "name": "COVID-19",
+    "symptoms": [
+      "fever",
+      "dry cough",
+      "fatigue",
+      "loss of taste",
+      "reduced sense of smell",
+      "sore throat",
+      "body ache",
+      "headache",
+      "shortness of breath",
+      "nasal congestion"
+    ],
+    "info": "A viral respiratory infection caused by the SARS-CoV-2 virus. Illness ranges from mild cold-like symptoms to serious pneumonia, and a lost sense of smell or taste is a common clue.",
+    "medicine_info": "Most mild cases recover with rest, fluids and fever/pain relief as advised by a doctor. Antiviral medicines are used only on a doctor's prescription. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Test (rapid antigen or RT-PCR) if you have symptoms",
+      "Isolate and wear a mask around others until recovered",
+      "Rest and drink plenty of fluids",
+      "Monitor oxygen level with a pulse oximeter if available",
+      "Keep rooms ventilated and wash hands often"
+    ],
+    "warning_signs": [
+      "Oxygen saturation below 94%",
+      "Difficulty breathing or chest pain",
+      "Bluish lips or face",
+      "Confusion or inability to stay awake",
+      "Symptoms getting worse after a few days"
+    ]
+  },
+  {
+    "name": "Jaundice (Hepatitis)",
+    "symptoms": [
+      "yellowing of skin or eyes",
+      "dark urine",
+      "pale stools",
+      "fatigue",
+      "nausea",
+      "loss of appetite",
+      "stomach pain",
+      "itchy skin",
+      "fever"
+    ],
+    "info": "Yellowing of the skin and eyes caused by excess bilirubin, often due to liver inflammation (hepatitis A/E from contaminated food and water), bile-duct blockage or blood disorders.",
+    "medicine_info": "Jaundice needs a doctor's evaluation and liver tests to find the cause. Avoid self-medication, herbal remedies and alcohol, as many substances can strain the liver. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Gastroenterologist",
+    "precautions": [
+      "Get liver function tests and a doctor's evaluation promptly",
+      "Drink boiled or safe water and eat fresh, light, low-oil food",
+      "Avoid alcohol and unnecessary medicines or herbal remedies",
+      "Rest and stay hydrated",
+      "Wash hands well to avoid spreading hepatitis A/E"
+    ],
+    "warning_signs": [
+      "Confusion, drowsiness or unusual sleepiness",
+      "Vomiting blood or black stools",
+      "Severe stomach pain or swelling of the belly",
+      "Very high fever",
+      "Symptoms worsening or lasting more than 2 weeks"
+    ]
+  },
+  {
+    "name": "Acid Reflux (GERD)",
+    "symptoms": [
+      "heartburn",
+      "acid regurgitation",
+      "sour taste in mouth",
+      "burning sensation in chest",
+      "bloating",
+      "belching",
+      "difficulty swallowing",
+      "hoarse voice"
+    ],
+    "info": "A condition where stomach acid flows back into the food pipe, causing heartburn and a sour taste. It is common and often triggered by large, oily or spicy meals and lying down soon after eating.",
+    "medicine_info": "Antacids are commonly used for short-term relief. Stronger acid-reducing medicines should be taken only as advised by a doctor. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Gastroenterologist",
+    "precautions": [
+      "Eat smaller meals and avoid lying down for 2–3 hours after eating",
+      "Limit spicy, oily food, tea/coffee, soft drinks and alcohol",
+      "Raise the head of your bed slightly",
+      "Maintain a healthy weight and avoid smoking",
+      "Avoid tight clothing around the stomach"
+    ],
+    "warning_signs": [
+      "Chest pain with sweating, arm/jaw pain or breathlessness (could be a heart attack)",
+      "Trouble or pain when swallowing",
+      "Vomiting blood or black stools",
+      "Unexplained weight loss",
+      "Symptoms not improving after a couple of weeks"
+    ]
+  },
+  {
+    "name": "Anemia",
+    "symptoms": [
+      "fatigue",
+      "weakness",
+      "pale skin",
+      "dizziness",
+      "shortness of breath",
+      "cold hands and feet",
+      "headache",
+      "palpitations",
+      "low hemoglobin reading"
+    ],
+    "info": "A condition in which the blood has too few red blood cells or too little hemoglobin to carry oxygen. Iron deficiency is the most common cause, especially in women, adolescents and pregnancy.",
+    "medicine_info": "Treatment depends on the cause. Iron or vitamin supplements should be taken only after a blood test and a doctor's advice, since too much iron can be harmful. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Hematologist",
+    "precautions": [
+      "Get a blood test (hemoglobin, ferritin) to find the cause",
+      "Eat iron-rich foods such as leafy greens, lentils, jaggery, dates and meat",
+      "Pair iron foods with vitamin C (lemon, amla, citrus fruit)",
+      "Avoid tea/coffee right after meals",
+      "Follow your doctor's advice on supplements and follow-up"
+    ],
+    "warning_signs": [
+      "Chest pain or very fast heartbeat",
+      "Fainting",
+      "Severe breathlessness",
+      "Black or bloody stools",
+      "Heavy or prolonged menstrual bleeding"
+    ]
+  },
+  {
+    "name": "Chickenpox",
+    "symptoms": [
+      "blisters",
+      "skin rash",
+      "itchy skin",
+      "fever",
+      "fatigue",
+      "loss of appetite",
+      "headache"
+    ],
+    "info": "A highly contagious viral infection (varicella-zoster) causing an itchy rash of fluid-filled blisters that crust over. It spreads easily through the air and by touching blisters.",
+    "medicine_info": "Calamine lotion and cool baths can ease itching, and paracetamol may be used for fever as advised. Do not give aspirin to children. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Dermatologist",
+    "precautions": [
+      "Stay home and isolate until all blisters have crusted over",
+      "Keep nails short and avoid scratching to prevent scars and infection",
+      "Take cool baths and wear loose cotton clothing",
+      "Drink plenty of fluids",
+      "Keep away from newborns, pregnant women and people with weak immunity"
+    ],
+    "warning_signs": [
+      "Rash becoming red, hot, swollen or pus-filled (infection)",
+      "Very high or lasting fever",
+      "Difficulty breathing or persistent cough",
+      "Severe headache, stiff neck or confusion",
+      "Blisters near the eyes"
+    ]
+  },
+  {
+    "name": "Kidney Stones",
+    "symptoms": [
+      "flank pain",
+      "lower abdominal pain",
+      "blood in urine",
+      "burning urination",
+      "frequent urination",
+      "nausea",
+      "vomiting",
+      "cloudy urine"
+    ],
+    "info": "Hard mineral deposits that form in the kidneys and can cause sudden, severe, wave-like pain in the side or back as they move through the urinary tract.",
+    "medicine_info": "Pain relief and medicines to help pass a stone are prescribed by a doctor after tests. Drinking plenty of water is the main home measure. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Urologist / General Physician",
+    "precautions": [
+      "Drink plenty of water (enough for pale-yellow urine) throughout the day",
+      "Get an ultrasound or urine test as advised",
+      "Limit excess salt and very high-protein diets",
+      "Strain urine if your doctor asks you to catch the stone",
+      "Ask your doctor about diet changes based on stone type"
+    ],
+    "warning_signs": [
+      "Fever or chills with the pain (possible infection)",
+      "Unable to pass urine",
+      "Pain so severe you cannot sit or lie still",
+      "Persistent vomiting",
+      "Blood in urine that does not stop"
+    ]
+  },
+  {
+    "name": "Appendicitis",
+    "symptoms": [
+      "lower right abdominal pain",
+      "sudden abdominal pain",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "mild fever",
+      "bloating",
+      "constipation"
+    ],
+    "info": "Inflammation of the appendix, a small pouch near the lower right abdomen. Pain often starts around the navel and then moves to the lower right side and worsens. It is a surgical emergency.",
+    "medicine_info": "Do not take painkillers, laxatives or heat pads to 'treat' suspected appendicitis, as they can hide worsening or make it dangerous. Avoid eating or drinking until a doctor has examined you. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Surgeon / Emergency Care",
+    "precautions": [
+      "Go to a hospital emergency department the same day",
+      "Do not eat or drink until you have been examined",
+      "Do not use laxatives or heating pads",
+      "Do not rely on painkillers to mask the pain",
+      "Tell the doctor exactly where and when the pain started"
+    ],
+    "warning_signs": [
+      "Pain that suddenly gets much worse or spreads over the whole belly",
+      "Rigid, hard belly",
+      "High fever with chills",
+      "Repeated vomiting",
+      "Pain that worsens with walking, coughing or movement"
+    ]
+  },
+  {
+    "name": "Ear Infection",
+    "symptoms": [
+      "ear pain",
+      "ear discharge",
+      "reduced hearing",
+      "blocked ear",
+      "fever",
+      "dizziness"
+    ],
+    "info": "An infection of the middle or outer ear, common in children and after a cold. It causes ear pain, a feeling of blockage and sometimes fluid or pus coming from the ear.",
+    "medicine_info": "Paracetamol is commonly used for pain as advised. Antibiotic ear drops or tablets are prescribed only by a doctor after examining the ear. Do not put oil, drops or objects in the ear unless advised. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "ENT Specialist",
+    "precautions": [
+      "Keep the ear dry while bathing and avoid swimming",
+      "Do not insert cotton buds, oil or drops unless your doctor says so",
+      "Use a warm (not hot) compress outside the ear for comfort",
+      "See a doctor if pain lasts more than 1–2 days",
+      "Complete any prescribed treatment"
+    ],
+    "warning_signs": [
+      "Fever above 102°F (38.9°C)",
+      "Pus or blood from the ear",
+      "Swelling or redness behind the ear",
+      "Severe dizziness or hearing loss",
+      "Stiff neck or severe headache"
+    ]
+  },
+  {
+    "name": "Ringworm (Fungal Skin Infection)",
+    "symptoms": [
+      "ring shaped rash",
+      "red scaly patches",
+      "itchy skin",
+      "skin peeling",
+      "skin rash"
+    ],
+    "info": "A common fungal infection of the skin (not a worm), producing ring-shaped, red, scaly, itchy patches. It spreads by touch and by sharing towels, clothes or combs, and thrives in sweaty, humid conditions.",
+    "medicine_info": "Over-the-counter antifungal creams are commonly used for mild skin patches; a doctor may prescribe stronger creams or tablets. Avoid steroid creams unless a doctor advises, as they can worsen fungal infections. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Dermatologist",
+    "precautions": [
+      "Keep the skin clean and completely dry, especially skin folds",
+      "Do not share towels, clothes or combs",
+      "Wash clothes and bedding in hot water",
+      "Wear loose cotton clothing",
+      "Continue treatment for the full period even after the patch fades"
+    ],
+    "warning_signs": [
+      "Patches spreading fast or covering large areas",
+      "Pus, pain or swelling",
+      "No improvement after 2 weeks of treatment",
+      "Scalp involvement with hair loss",
+      "Frequent recurrence"
+    ]
+  },
+  {
+    "name": "Scabies",
+    "symptoms": [
+      "severe itching at night",
+      "itchy bumps",
+      "rash between fingers",
+      "skin rash",
+      "itchy skin",
+      "sores from scratching"
+    ],
+    "info": "A contagious skin condition caused by tiny mites that burrow into the skin, causing intense itching (worse at night) and a rash, often between fingers, on wrists, waist and groin. It spreads by close contact.",
+    "medicine_info": "Scabies is treated with a doctor-prescribed anti-scabies cream or lotion applied to the whole body as directed; close contacts usually need treatment too. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Dermatologist",
+    "precautions": [
+      "Treat all family members and close contacts at the same time",
+      "Wash bedding, towels and clothes in hot water and dry in sun/heat",
+      "Avoid scratching to prevent infection",
+      "Avoid skin contact with others until treated",
+      "Follow the full treatment schedule exactly"
+    ],
+    "warning_signs": [
+      "Sores with pus, warmth or spreading redness",
+      "Fever",
+      "Itching continuing weeks after treatment",
+      "Rash in infants or very elderly",
+      "Crusted, thick patches of skin"
+    ]
+  },
+  {
+    "name": "Minor Cut (Laceration)",
+    "symptoms": [
+      "cut wound",
+      "bleeding wound",
+      "wound pain",
+      "open wound"
+    ],
+    "info": "A break or slit in the skin from a knife, blade, glass or sharp edge. Small, shallow cuts usually heal well at home with proper cleaning.",
+    "medicine_info": "Clean the wound and cover it with a sterile dressing; a topical antiseptic is commonly used. Pain relievers may be used for comfort as advised. Deep wounds may need stitches and a tetanus shot. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Emergency Care",
+    "precautions": [
+      "Wash your hands, then rinse the cut under clean running water for several minutes",
+      "Press firmly with a clean cloth for 5–10 minutes to stop bleeding",
+      "Clean around it with mild soap and cover with a sterile bandage",
+      "Change the dressing daily and keep it clean and dry",
+      "Make sure your tetanus vaccination is up to date (within about 5–10 years)"
+    ],
+    "warning_signs": [
+      "Bleeding that does not stop after 10 minutes of firm pressure",
+      "Cut is deep, gaping or longer than about 1 cm and may need stitches",
+      "Dirt, glass or rust stuck inside the wound",
+      "Redness, swelling, pus or warmth (infection) or fever",
+      "Numbness or inability to move the finger or limb"
+    ]
+  },
+  {
+    "name": "Scrape (Abrasion)",
+    "symptoms": [
+      "scrape injury",
+      "mild bleeding",
+      "stinging pain",
+      "raw red skin",
+      "clear fluid oozing"
+    ],
+    "info": "A superficial wound where the top layer of skin is rubbed off, often from a fall on a rough surface. It usually heals within a week or two.",
+    "medicine_info": "Wash gently, apply a thin layer of antiseptic or antibiotic ointment, and cover with a non-stick dressing. Pain relievers may be used for comfort as advised. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Rinse with clean running water and remove loose dirt gently",
+      "Wash around the area with mild soap",
+      "Cover with a clean non-stick dressing",
+      "Change the dressing daily and keep it moist and clean",
+      "Make sure your tetanus vaccination is up to date"
+    ],
+    "warning_signs": [
+      "Gravel or dirt that will not wash out",
+      "Redness spreading, swelling, pus or fever",
+      "Large scrapes covering a big area",
+      "Bleeding that does not stop with pressure",
+      "Not healing after 2 weeks"
+    ]
+  },
+  {
+    "name": "Minor Burn",
+    "symptoms": [
+      "burn injury",
+      "red painful area",
+      "blisters",
+      "burning pain on skin",
+      "swelling"
+    ],
+    "info": "Skin damage from hot liquids, steam, hot oil, flames or hot surfaces. First-degree burns (red, painful, no blisters) and small second-degree burns (blisters) can be treated at home.",
+    "medicine_info": "Cool running water is the first treatment. Aloe vera gel or a plain moisturizer may soothe healed skin; pain relievers may be used as advised. Do not apply toothpaste, butter, ghee, oil, ice or turmeric on a fresh burn. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Burns Specialist",
+    "precautions": [
+      "Hold the burn under cool (not ice-cold) running water for 20 minutes",
+      "Remove rings, watches and tight clothing near the burn before swelling starts",
+      "Cover loosely with a clean non-stick dressing or clean cling film",
+      "Do not burst blisters",
+      "Do not apply ice, toothpaste, butter, ghee, oil or powders"
+    ],
+    "warning_signs": [
+      "Burn larger than the palm of your hand, or on the face, hands, feet, genitals or a joint",
+      "Deep burn that looks white, charred or leathery",
+      "Burns from chemicals, electricity or inhaling smoke",
+      "Burns in infants, young children or older adults",
+      "Signs of infection such as pus, spreading redness or fever"
+    ]
+  },
+  {
+    "name": "Sprain",
+    "symptoms": [
+      "swollen joint",
+      "injury pain",
+      "bruising",
+      "difficulty moving joint"
+    ],
+    "info": "Stretching or tearing of ligaments around a joint, most often the ankle or wrist, after a twist or awkward fall. Swelling, pain and bruising are typical.",
+    "medicine_info": "Pain relievers may be used as advised by a doctor or pharmacist. Rest, ice and compression are the main treatment. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Orthopedic Doctor / General Physician",
+    "precautions": [
+      "Rest the joint and avoid putting weight on it",
+      "Apply a cold pack wrapped in cloth for 15–20 minutes every 2–3 hours for the first day or two",
+      "Wrap with a compression bandage (snug, not tight)",
+      "Raise the injured limb above heart level when resting",
+      "Return to activity gradually once pain eases"
+    ],
+    "warning_signs": [
+      "Cannot bear weight or the joint looks deformed (could be a fracture)",
+      "Numbness, tingling or a cold, pale limb",
+      "Heard a pop or snap at the time of injury",
+      "No improvement after 5–7 days",
+      "Severe swelling or bruising right away"
+    ]
+  },
+  {
+    "name": "Suspected Fracture (Broken Bone)",
+    "symptoms": [
+      "injury pain",
+      "swelling",
+      "visible deformity",
+      "unable to bear weight",
+      "bruising",
+      "bone tenderness"
+    ],
+    "info": "A crack or break in a bone, usually after a fall, accident or heavy blow. It needs an X-ray and medical care to heal properly.",
+    "medicine_info": "Do not self-treat a suspected fracture. A doctor will give pain relief and set or splint the bone. Avoid eating or drinking if surgery might be needed. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Orthopedic Doctor / Emergency Care",
+    "precautions": [
+      "Keep the injured part still; do not try to straighten it",
+      "Support it with a splint or rolled newspaper/cloth and a sling",
+      "Apply a cold pack wrapped in cloth to reduce swelling",
+      "Do not move the person if a head, neck or back injury is suspected",
+      "Go to a hospital for an X-ray"
+    ],
+    "warning_signs": [
+      "Bone visible through the skin or heavy bleeding",
+      "Limb looks bent, twisted or shortened",
+      "Numbness, tingling, cold or blue fingers/toes",
+      "Injury to head, neck or back",
+      "Severe pain or inability to move or bear weight"
+    ]
+  },
+  {
+    "name": "Dog / Animal Bite",
+    "symptoms": [
+      "bite wound",
+      "puncture marks",
+      "bleeding wound",
+      "wound pain",
+      "swelling around wound"
+    ],
+    "info": "A wound from a dog, cat, monkey or other animal. Even a small bite or scratch can carry rabies, tetanus or bacterial infection, so prompt washing and medical care matter.",
+    "medicine_info": "There is no home cure. Rabies prevention (anti-rabies vaccine, and rabies immunoglobulin for severe bites) and tetanus protection are given by a doctor — start without delay, even if the animal looks healthy. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Emergency Care / General Physician",
+    "precautions": [
+      "Immediately wash the wound with soap and running water for at least 15 minutes",
+      "Apply an antiseptic such as povidone-iodine",
+      "Do not apply chilli, turmeric, oil or tie the wound tightly",
+      "Do not stitch or seal the wound tightly; let a doctor decide",
+      "Go to a hospital/clinic the same day for anti-rabies vaccination and tetanus protection"
+    ],
+    "warning_signs": [
+      "Bite to the face, head, neck, hands or genitals",
+      "Deep wound or heavy bleeding",
+      "Bite from a stray, wild or unknown animal, a bat or a monkey",
+      "Redness spreading, pus, or fever",
+      "Animal behaves strangely or dies/vanishes within 10 days"
+    ]
+  },
+  {
+    "name": "Snake Bite",
+    "symptoms": [
+      "puncture marks",
+      "bite wound",
+      "swelling around wound",
+      "nausea",
+      "vomiting",
+      "blurred vision",
+      "drooping eyelids"
+    ],
+    "info": "A bite from a snake. Not all are venomous, but any snake bite should be treated as an emergency until a doctor says otherwise, because venom can cause bleeding, paralysis and breathing failure.",
+    "medicine_info": "The only effective treatment for venomous snake bite is anti-snake venom given in a hospital. Do not use home or traditional remedies. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "Emergency Care (nearest hospital)",
+    "precautions": [
+      "Go to the nearest hospital with anti-snake venom immediately — call emergency services",
+      "Keep the person calm and still; avoid walking",
+      "Immobilize the bitten limb like a fracture, keeping it at or slightly below heart level",
+      "Remove rings, watches and tight clothing before swelling begins",
+      "Do NOT cut, suck, burn, apply ice or herbs, or tie a tight tourniquet"
+    ],
+    "warning_signs": [
+      "Swelling that spreads quickly",
+      "Drooping eyelids, blurred vision or difficulty speaking or swallowing",
+      "Difficulty breathing",
+      "Bleeding from gums, nose or the wound",
+      "Drowsiness or collapse"
+    ]
+  },
+  {
+    "name": "Insect Bite or Sting",
+    "symptoms": [
+      "insect bite",
+      "itchy bumps",
+      "stinging pain",
+      "swelling",
+      "itchy skin",
+      "skin rash"
+    ],
+    "info": "Bites or stings from mosquitoes, bees, wasps, ants, spiders or scorpions. Most cause only local pain, redness and itching, but some people have severe allergic reactions, and scorpion stings can be serious.",
+    "medicine_info": "Cold compresses and calamine lotion can ease symptoms. Oral antihistamines or hydrocortisone cream are commonly used for itching or swelling as advised by a doctor or pharmacist. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Dermatologist",
+    "precautions": [
+      "Scrape out any visible bee sting with a flat edge (do not squeeze)",
+      "Wash with soap and water",
+      "Apply a cold pack wrapped in cloth for 10–15 minutes",
+      "Avoid scratching to prevent infection",
+      "Raise the limb if a hand or foot is swollen"
+    ],
+    "warning_signs": [
+      "Swelling of the lips, face or throat, wheeze or breathing difficulty (allergic reaction — emergency)",
+      "Dizziness, fainting or hives all over",
+      "Scorpion sting, especially in children — go to a hospital",
+      "Many stings at once",
+      "Spreading redness, pus or fever"
+    ]
+  },
+  {
+    "name": "Nosebleed",
+    "symptoms": [
+      "bleeding from nose",
+      "blood from nostril",
+      "dry nose"
+    ],
+    "info": "Bleeding from the nose, usually from small fragile blood vessels, often due to dry air, nose-picking, colds or minor knocks. Most nosebleeds are not serious.",
+    "medicine_info": "Pressure is the main treatment. A thin layer of petroleum jelly inside the nostril can help keep it moist afterwards. Avoid decongestant nasal sprays unless advised. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / ENT Specialist",
+    "precautions": [
+      "Sit upright and lean slightly forward (do not tilt head back)",
+      "Pinch the soft part of the nose firmly for 10 minutes without releasing",
+      "Breathe through your mouth and spit out any blood",
+      "Apply a cold pack to the bridge of the nose",
+      "Avoid blowing or picking your nose for the next day or so"
+    ],
+    "warning_signs": [
+      "Bleeding lasting more than 20 minutes despite pressure",
+      "Nosebleed after a blow to the head or face",
+      "Frequent or recurring nosebleeds",
+      "Heavy bleeding with dizziness or weakness",
+      "Nosebleeds while on blood thinners or with very high blood pressure"
+    ]
+  },
+  {
+    "name": "Bruise (Contusion)",
+    "symptoms": [
+      "bruising",
+      "injury pain",
+      "tenderness",
+      "swelling",
+      "skin discoloration"
+    ],
+    "info": "A bruise forms when small blood vessels under the skin break after a bump or knock, causing a blue, purple or dark mark that fades through green and yellow over 1–2 weeks.",
+    "medicine_info": "Cold packs in the first day or two and pain relievers as advised usually suffice. Gentle warmth after 48 hours can help it fade. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician",
+    "precautions": [
+      "Apply a cold pack wrapped in cloth for 15–20 minutes, several times a day for the first 48 hours",
+      "Rest and raise the injured area",
+      "Avoid massaging the bruise early on",
+      "Use gentle warmth after 2 days",
+      "Avoid unnecessary aspirin or blood-thinning painkillers unless advised"
+    ],
+    "warning_signs": [
+      "Very large, painful or rapidly growing swelling",
+      "Bruises appearing without any injury or very easily",
+      "Bruise after a head injury with headache, vomiting or drowsiness",
+      "Numbness or inability to move the limb",
+      "Bruise that does not fade in 2–3 weeks"
+    ]
+  },
+  {
+    "name": "Puncture Wound (Nail / Thorn / Needle)",
+    "symptoms": [
+      "puncture marks",
+      "deep narrow wound",
+      "wound pain",
+      "mild bleeding",
+      "swelling around wound"
+    ],
+    "info": "A small, deep, narrow wound from a nail, thorn, needle or sharp object. It may not bleed much but can push germs deep inside, so tetanus and infection are the main concerns.",
+    "medicine_info": "Wash well and cover with a clean dressing. A tetanus shot is usually needed, especially for rusty or dirty objects; antibiotics are prescribed by a doctor if there is risk of infection. This is general information only, not a personal prescription — check with a doctor or pharmacist before taking anything.",
+    "doctor": "General Physician / Emergency Care",
+    "precautions": [
+      "Wash with soap and running water for several minutes",
+      "Let it bleed a little (this helps flush out germs); stop heavy bleeding with pressure",
+      "Clean around it with an antiseptic and cover with a dry dressing",
+      "Check your tetanus vaccination and get a booster if due",
+      "Watch the wound closely for the next few days"
+    ],
+    "warning_signs": [
+      "Part of the object broken off or stuck inside",
+      "Deep wound to the foot, chest, abdomen or head",
+      "Redness spreading, swelling, throbbing, pus or fever",
+      "Jaw stiffness, muscle spasms or difficulty swallowing (possible tetanus)",
+      "Puncture from a rusty or dirty object with no recent tetanus shot"
+    ]
+  }
+]

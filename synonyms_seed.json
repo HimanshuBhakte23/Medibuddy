@@ -1,0 +1,4166 @@
+[
+  {
+    "phrase": "throwing up",
+    "canonical_symptom": "vomiting"
+  },
+  {
+    "phrase": "puking",
+    "canonical_symptom": "vomiting"
+  },
+  {
+    "phrase": "loose motion",
+    "canonical_symptom": "diarrhea"
+  },
+  {
+    "phrase": "loose motions",
+    "canonical_symptom": "diarrhea"
+  },
+  {
+    "phrase": "runny tummy",
+    "canonical_symptom": "diarrhea"
+  },
+  {
+    "phrase": "stomach ache",
+    "canonical_symptom": "stomach pain"
+  },
+  {
+    "phrase": "stomachache",
+    "canonical_symptom": "stomach pain"
+  },
+  {
+    "phrase": "tummy pain",
+    "canonical_symptom": "stomach pain"
+  },
+  {
+    "phrase": "blocked nose",
+    "canonical_symptom": "nasal congestion"
+  },
+  {
+    "phrase": "stuffy nose",
+    "canonical_symptom": "nasal congestion"
+  },
+  {
+    "phrase": "cant smell",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "high temperature",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "temperature",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "throat pain",
+    "canonical_symptom": "sore throat"
+  },
+  {
+    "phrase": "itchy skin rash",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "red itchy eyes",
+    "canonical_symptom": "itchy eyes"
+  },
+  {
+    "phrase": "burning while urinating",
+    "canonical_symptom": "burning urination"
+  },
+  {
+    "phrase": "burning pee",
+    "canonical_symptom": "burning urination"
+  },
+  {
+    "phrase": "peeing a lot",
+    "canonical_symptom": "frequent urination"
+  },
+  {
+    "phrase": "tired",
+    "canonical_symptom": "fatigue"
+  },
+  {
+    "phrase": "exhausted",
+    "canonical_symptom": "fatigue"
+  },
+  {
+    "phrase": "no appetite",
+    "canonical_symptom": "loss of appetite"
+  },
+  {
+    "phrase": "cough",
+    "canonical_symptom": "mild cough"
+  },
+  {
+    "phrase": "headache",
+    "canonical_symptom": "mild headache"
+  },
+  {
+    "phrase": "body pain",
+    "canonical_symptom": "body ache"
+  },
+  {
+    "phrase": "muscle ache",
+    "canonical_symptom": "muscle pain"
+  },
+  {
+    "phrase": "bukhar",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "tez bukhar",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "feverish",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "taap",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "sar dard",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "sardard",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "sir dard",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "sar me dard",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "sir me dard",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "khansi",
+    "canonical_symptom": "mild cough"
+  },
+  {
+    "phrase": "khasi",
+    "canonical_symptom": "mild cough"
+  },
+  {
+    "phrase": "sukhi khansi",
+    "canonical_symptom": "dry cough"
+  },
+  {
+    "phrase": "gale me dard",
+    "canonical_symptom": "sore throat"
+  },
+  {
+    "phrase": "gale me kharash",
+    "canonical_symptom": "sore throat"
+  },
+  {
+    "phrase": "gala kharab",
+    "canonical_symptom": "sore throat"
+  },
+  {
+    "phrase": "naak behna",
+    "canonical_symptom": "runny nose"
+  },
+  {
+    "phrase": "naak beh rahi",
+    "canonical_symptom": "runny nose"
+  },
+  {
+    "phrase": "jukam",
+    "canonical_symptom": "runny nose"
+  },
+  {
+    "phrase": "zukam",
+    "canonical_symptom": "runny nose"
+  },
+  {
+    "phrase": "sardi",
+    "canonical_symptom": "runny nose"
+  },
+  {
+    "phrase": "chheenk",
+    "canonical_symptom": "sneezing"
+  },
+  {
+    "phrase": "chheenke",
+    "canonical_symptom": "sneezing"
+  },
+  {
+    "phrase": "band naak",
+    "canonical_symptom": "nasal congestion"
+  },
+  {
+    "phrase": "naak band",
+    "canonical_symptom": "nasal congestion"
+  },
+  {
+    "phrase": "ulti",
+    "canonical_symptom": "vomiting"
+  },
+  {
+    "phrase": "matli",
+    "canonical_symptom": "nausea"
+  },
+  {
+    "phrase": "ji ghabrana",
+    "canonical_symptom": "nausea"
+  },
+  {
+    "phrase": "dast",
+    "canonical_symptom": "diarrhea"
+  },
+  {
+    "phrase": "pet dard",
+    "canonical_symptom": "stomach pain"
+  },
+  {
+    "phrase": "pet me dard",
+    "canonical_symptom": "stomach pain"
+  },
+  {
+    "phrase": "pet kharab",
+    "canonical_symptom": "stomach pain"
+  },
+  {
+    "phrase": "badan dard",
+    "canonical_symptom": "body ache"
+  },
+  {
+    "phrase": "body dard",
+    "canonical_symptom": "body ache"
+  },
+  {
+    "phrase": "thand lagna",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "thandi lagna",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "kaanpna",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "thakan",
+    "canonical_symptom": "fatigue"
+  },
+  {
+    "phrase": "thakawat",
+    "canonical_symptom": "fatigue"
+  },
+  {
+    "phrase": "kamzori",
+    "canonical_symptom": "fatigue"
+  },
+  {
+    "phrase": "chakkar",
+    "canonical_symptom": "dizziness"
+  },
+  {
+    "phrase": "chakkar aana",
+    "canonical_symptom": "dizziness"
+  },
+  {
+    "phrase": "khujli",
+    "canonical_symptom": "itchy skin"
+  },
+  {
+    "phrase": "laal daane",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "chakatte",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "peshab me jalan",
+    "canonical_symptom": "burning urination"
+  },
+  {
+    "phrase": "baar baar peshab",
+    "canonical_symptom": "frequent urination"
+  },
+  {
+    "phrase": "laal aankhein",
+    "canonical_symptom": "red eyes"
+  },
+  {
+    "phrase": "aankho me khujli",
+    "canonical_symptom": "itchy eyes"
+  },
+  {
+    "phrase": "aankho se paani",
+    "canonical_symptom": "watery eyes"
+  },
+  {
+    "phrase": "bhookh na lagna",
+    "canonical_symptom": "loss of appetite"
+  },
+  {
+    "phrase": "bhookh nahi lagti",
+    "canonical_symptom": "loss of appetite"
+  },
+  {
+    "phrase": "jyada pyas",
+    "canonical_symptom": "excessive thirst"
+  },
+  {
+    "phrase": "gala sookhna",
+    "canonical_symptom": "dry mouth"
+  },
+  {
+    "phrase": "nigalne me dard",
+    "canonical_symptom": "difficulty swallowing"
+  },
+  {
+    "phrase": "बुखार",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "तेज बुखार",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "ताप",
+    "canonical_symptom": "fever"
+  },
+  {
+    "phrase": "सिरदर्द",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "सिर दर्द",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "सर दर्द",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "सिर में दर्द",
+    "canonical_symptom": "headache"
+  },
+  {
+    "phrase": "खांसी",
+    "canonical_symptom": "mild cough"
+  },
+  {
+    "phrase": "खासी",
+    "canonical_symptom": "mild cough"
+  },
+  {
+    "phrase": "सूखी खांसी",
+    "canonical_symptom": "dry cough"
+  },
+  {
+    "phrase": "गले में दर्द",
+    "canonical_symptom": "sore throat"
+  },
+  {
+    "phrase": "गले में खराश",
+    "canonical_symptom": "sore throat"
+  },
+  {
+    "phrase": "गला खराब",
+    "canonical_symptom": "sore throat"
+  },
+  {
+    "phrase": "नाक बहना",
+    "canonical_symptom": "runny nose"
+  },
+  {
+    "phrase": "जुकाम",
+    "canonical_symptom": "runny nose"
+  },
+  {
+    "phrase": "सर्दी",
+    "canonical_symptom": "runny nose"
+  },
+  {
+    "phrase": "छींक",
+    "canonical_symptom": "sneezing"
+  },
+  {
+    "phrase": "छींकें",
+    "canonical_symptom": "sneezing"
+  },
+  {
+    "phrase": "बंद नाक",
+    "canonical_symptom": "nasal congestion"
+  },
+  {
+    "phrase": "नाक बंद",
+    "canonical_symptom": "nasal congestion"
+  },
+  {
+    "phrase": "उल्टी",
+    "canonical_symptom": "vomiting"
+  },
+  {
+    "phrase": "मतली",
+    "canonical_symptom": "nausea"
+  },
+  {
+    "phrase": "जी घबराना",
+    "canonical_symptom": "nausea"
+  },
+  {
+    "phrase": "दस्त",
+    "canonical_symptom": "diarrhea"
+  },
+  {
+    "phrase": "पेट दर्द",
+    "canonical_symptom": "stomach pain"
+  },
+  {
+    "phrase": "पेट में दर्द",
+    "canonical_symptom": "stomach pain"
+  },
+  {
+    "phrase": "बदन दर्द",
+    "canonical_symptom": "body ache"
+  },
+  {
+    "phrase": "शरीर में दर्द",
+    "canonical_symptom": "body ache"
+  },
+  {
+    "phrase": "ठंड लगना",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "कांपना",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "थकान",
+    "canonical_symptom": "fatigue"
+  },
+  {
+    "phrase": "कमजोरी",
+    "canonical_symptom": "fatigue"
+  },
+  {
+    "phrase": "चक्कर",
+    "canonical_symptom": "dizziness"
+  },
+  {
+    "phrase": "चक्कर आना",
+    "canonical_symptom": "dizziness"
+  },
+  {
+    "phrase": "खुजली",
+    "canonical_symptom": "itchy skin"
+  },
+  {
+    "phrase": "चकत्ते",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "लाल दाने",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "पेशाब में जलन",
+    "canonical_symptom": "burning urination"
+  },
+  {
+    "phrase": "बार-बार पेशाब",
+    "canonical_symptom": "frequent urination"
+  },
+  {
+    "phrase": "लाल आंखें",
+    "canonical_symptom": "red eyes"
+  },
+  {
+    "phrase": "आंखों में खुजली",
+    "canonical_symptom": "itchy eyes"
+  },
+  {
+    "phrase": "आंखों से पानी",
+    "canonical_symptom": "watery eyes"
+  },
+  {
+    "phrase": "भूख न लगना",
+    "canonical_symptom": "loss of appetite"
+  },
+  {
+    "phrase": "ज्यादा प्यास",
+    "canonical_symptom": "excessive thirst"
+  },
+  {
+    "phrase": "मुंह सूखना",
+    "canonical_symptom": "dry mouth"
+  },
+  {
+    "phrase": "निगलने में दर्द",
+    "canonical_symptom": "difficulty swallowing"
+  },
+  {
+    "phrase": "very thirsty",
+    "canonical_symptom": "excessive thirst"
+  },
+  {
+    "phrase": "always thirsty",
+    "canonical_symptom": "excessive thirst"
+  },
+  {
+    "phrase": "extremely thirsty",
+    "canonical_symptom": "excessive thirst"
+  },
+  {
+    "phrase": "bahut pyas",
+    "canonical_symptom": "excessive thirst"
+  },
+  {
+    "phrase": "बहुत प्यास",
+    "canonical_symptom": "excessive thirst"
+  },
+  {
+    "phrase": "always hungry",
+    "canonical_symptom": "increased hunger"
+  },
+  {
+    "phrase": "extreme hunger",
+    "canonical_symptom": "increased hunger"
+  },
+  {
+    "phrase": "very hungry all the time",
+    "canonical_symptom": "increased hunger"
+  },
+  {
+    "phrase": "bahut bhookh",
+    "canonical_symptom": "increased hunger"
+  },
+  {
+    "phrase": "बहुत भूख",
+    "canonical_symptom": "increased hunger"
+  },
+  {
+    "phrase": "blurry vision",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "blurred eyesight",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "vision is blurry",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "cant see clearly",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "can t see clearly",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "dhundhla dikhna",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "dhundhla dikhai",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "धुंधला दिखना",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "धुंधला दिखाई",
+    "canonical_symptom": "blurred vision"
+  },
+  {
+    "phrase": "wound not healing",
+    "canonical_symptom": "slow healing wounds"
+  },
+  {
+    "phrase": "wounds not healing",
+    "canonical_symptom": "slow healing wounds"
+  },
+  {
+    "phrase": "cuts not healing",
+    "canonical_symptom": "slow healing wounds"
+  },
+  {
+    "phrase": "sore not healing",
+    "canonical_symptom": "slow healing wounds"
+  },
+  {
+    "phrase": "wound is not healing",
+    "canonical_symptom": "slow healing wounds"
+  },
+  {
+    "phrase": "zakhm theek nahi",
+    "canonical_symptom": "slow healing wounds"
+  },
+  {
+    "phrase": "जख्म ठीक नहीं",
+    "canonical_symptom": "slow healing wounds"
+  },
+  {
+    "phrase": "घाव ठीक नहीं",
+    "canonical_symptom": "slow healing wounds"
+  },
+  {
+    "phrase": "weight loss",
+    "canonical_symptom": "unexplained weight loss"
+  },
+  {
+    "phrase": "losing weight",
+    "canonical_symptom": "unexplained weight loss"
+  },
+  {
+    "phrase": "lost weight",
+    "canonical_symptom": "unexplained weight loss"
+  },
+  {
+    "phrase": "weight is dropping",
+    "canonical_symptom": "unexplained weight loss"
+  },
+  {
+    "phrase": "wajan kam",
+    "canonical_symptom": "unexplained weight loss"
+  },
+  {
+    "phrase": "वजन कम",
+    "canonical_symptom": "unexplained weight loss"
+  },
+  {
+    "phrase": "वजन घट",
+    "canonical_symptom": "unexplained weight loss"
+  },
+  {
+    "phrase": "tingling",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "pins and needles",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "numb feet",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "numbness in feet",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "numb hands",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "numbness in hands",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "jhanjhanahat",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "झनझनाहट",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "सुन्न",
+    "canonical_symptom": "tingling in hands or feet"
+  },
+  {
+    "phrase": "high sugar",
+    "canonical_symptom": "high blood sugar reading"
+  },
+  {
+    "phrase": "sugar high",
+    "canonical_symptom": "high blood sugar reading"
+  },
+  {
+    "phrase": "high blood sugar",
+    "canonical_symptom": "high blood sugar reading"
+  },
+  {
+    "phrase": "blood sugar is high",
+    "canonical_symptom": "high blood sugar reading"
+  },
+  {
+    "phrase": "sugar level high",
+    "canonical_symptom": "high blood sugar reading"
+  },
+  {
+    "phrase": "sugar badh",
+    "canonical_symptom": "high blood sugar reading"
+  },
+  {
+    "phrase": "sugar badh gayi",
+    "canonical_symptom": "high blood sugar reading"
+  },
+  {
+    "phrase": "शुगर बढ़",
+    "canonical_symptom": "high blood sugar reading"
+  },
+  {
+    "phrase": "high bp",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "bp high",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "bp is high",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "high blood pressure",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "blood pressure high",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "blood pressure is high",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "bp badh",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "bp badh gaya",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "बीपी बढ़",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "ब्लड प्रेशर हाई",
+    "canonical_symptom": "high blood pressure reading"
+  },
+  {
+    "phrase": "heart racing",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "racing heart",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "fast heartbeat",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "heart beating fast",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "heart pounding",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "heart is pounding",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "dil tez dhadakna",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "dhadkan tez",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "धड़कन तेज",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "दिल तेज धड़क",
+    "canonical_symptom": "palpitations"
+  },
+  {
+    "phrase": "short of breath",
+    "canonical_symptom": "shortness of breath"
+  },
+  {
+    "phrase": "breathless",
+    "canonical_symptom": "shortness of breath"
+  },
+  {
+    "phrase": "breathlessness",
+    "canonical_symptom": "shortness of breath"
+  },
+  {
+    "phrase": "out of breath",
+    "canonical_symptom": "shortness of breath"
+  },
+  {
+    "phrase": "breath is short",
+    "canonical_symptom": "shortness of breath"
+  },
+  {
+    "phrase": "hard to catch my breath",
+    "canonical_symptom": "shortness of breath"
+  },
+  {
+    "phrase": "saans ki kami",
+    "canonical_symptom": "shortness of breath"
+  },
+  {
+    "phrase": "साँस की कमी",
+    "canonical_symptom": "shortness of breath"
+  },
+  {
+    "phrase": "wheeze",
+    "canonical_symptom": "wheezing"
+  },
+  {
+    "phrase": "wheezes",
+    "canonical_symptom": "wheezing"
+  },
+  {
+    "phrase": "whistling sound",
+    "canonical_symptom": "wheezing"
+  },
+  {
+    "phrase": "whistling in chest",
+    "canonical_symptom": "wheezing"
+  },
+  {
+    "phrase": "seeti jaisi awaz",
+    "canonical_symptom": "wheezing"
+  },
+  {
+    "phrase": "सीटी जैसी आवाज",
+    "canonical_symptom": "wheezing"
+  },
+  {
+    "phrase": "दमा",
+    "canonical_symptom": "wheezing"
+  },
+  {
+    "phrase": "tight chest",
+    "canonical_symptom": "chest tightness"
+  },
+  {
+    "phrase": "chest feels tight",
+    "canonical_symptom": "chest tightness"
+  },
+  {
+    "phrase": "chest is tight",
+    "canonical_symptom": "chest tightness"
+  },
+  {
+    "phrase": "tightness in chest",
+    "canonical_symptom": "chest tightness"
+  },
+  {
+    "phrase": "chest heaviness",
+    "canonical_symptom": "chest tightness"
+  },
+  {
+    "phrase": "heavy chest",
+    "canonical_symptom": "chest tightness"
+  },
+  {
+    "phrase": "seene me jakdan",
+    "canonical_symptom": "chest tightness"
+  },
+  {
+    "phrase": "सीने में जकड़न",
+    "canonical_symptom": "chest tightness"
+  },
+  {
+    "phrase": "night cough",
+    "canonical_symptom": "cough at night"
+  },
+  {
+    "phrase": "coughing at night",
+    "canonical_symptom": "cough at night"
+  },
+  {
+    "phrase": "cough during the night",
+    "canonical_symptom": "cough at night"
+  },
+  {
+    "phrase": "cough worse at night",
+    "canonical_symptom": "cough at night"
+  },
+  {
+    "phrase": "raat ko khansi",
+    "canonical_symptom": "cough at night"
+  },
+  {
+    "phrase": "रात को खांसी",
+    "canonical_symptom": "cough at night"
+  },
+  {
+    "phrase": "phlegm",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "mucus cough",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "productive cough",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "cough with mucus",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "wet cough",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "coughing up mucus",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "balgam",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "बलगम",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "balgam wali khansi",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "बलगम वाली खांसी",
+    "canonical_symptom": "cough with phlegm"
+  },
+  {
+    "phrase": "cough for weeks",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "cough for 2 weeks",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "cough for 3 weeks",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "cough for more than",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "cough lasting weeks",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "long lasting cough",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "cough not going away",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "cough wont go away",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "cough won t go away",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "lagatar khansi",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "purani khansi",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "लगातार खांसी",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "पुरानी खांसी",
+    "canonical_symptom": "persistent cough"
+  },
+  {
+    "phrase": "chest discomfort",
+    "canonical_symptom": "chest discomfort"
+  },
+  {
+    "phrase": "discomfort in chest",
+    "canonical_symptom": "chest discomfort"
+  },
+  {
+    "phrase": "chest feels uncomfortable",
+    "canonical_symptom": "chest discomfort"
+  },
+  {
+    "phrase": "seene me bechaini",
+    "canonical_symptom": "chest discomfort"
+  },
+  {
+    "phrase": "सीने में बेचैनी",
+    "canonical_symptom": "chest discomfort"
+  },
+  {
+    "phrase": "pain when breathing",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "pain while breathing",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "pain on breathing",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "painful breathing",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "chest hurts when i breathe",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "chest hurts when breathing",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "pain when i breathe in",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "saans lene par dard",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "साँस लेने पर दर्द",
+    "canonical_symptom": "chest pain while breathing"
+  },
+  {
+    "phrase": "breathing fast",
+    "canonical_symptom": "rapid breathing"
+  },
+  {
+    "phrase": "fast breathing",
+    "canonical_symptom": "rapid breathing"
+  },
+  {
+    "phrase": "breathing rapidly",
+    "canonical_symptom": "rapid breathing"
+  },
+  {
+    "phrase": "breathing quickly",
+    "canonical_symptom": "rapid breathing"
+  },
+  {
+    "phrase": "tez saans",
+    "canonical_symptom": "rapid breathing"
+  },
+  {
+    "phrase": "तेज साँस",
+    "canonical_symptom": "rapid breathing"
+  },
+  {
+    "phrase": "low grade fever",
+    "canonical_symptom": "mild fever"
+  },
+  {
+    "phrase": "slight fever",
+    "canonical_symptom": "mild fever"
+  },
+  {
+    "phrase": "mild temperature",
+    "canonical_symptom": "mild fever"
+  },
+  {
+    "phrase": "halka bukhar",
+    "canonical_symptom": "mild fever"
+  },
+  {
+    "phrase": "हल्का बुखार",
+    "canonical_symptom": "mild fever"
+  },
+  {
+    "phrase": "night sweat",
+    "canonical_symptom": "night sweats"
+  },
+  {
+    "phrase": "sweating at night",
+    "canonical_symptom": "night sweats"
+  },
+  {
+    "phrase": "sweating during night",
+    "canonical_symptom": "night sweats"
+  },
+  {
+    "phrase": "drenching sweats",
+    "canonical_symptom": "night sweats"
+  },
+  {
+    "phrase": "raat ko paseena",
+    "canonical_symptom": "night sweats"
+  },
+  {
+    "phrase": "रात को पसीना",
+    "canonical_symptom": "night sweats"
+  },
+  {
+    "phrase": "blood in sputum",
+    "canonical_symptom": "blood in sputum"
+  },
+  {
+    "phrase": "blood in phlegm",
+    "canonical_symptom": "blood in sputum"
+  },
+  {
+    "phrase": "blood in spit",
+    "canonical_symptom": "blood in sputum"
+  },
+  {
+    "phrase": "blood stained phlegm",
+    "canonical_symptom": "blood in sputum"
+  },
+  {
+    "phrase": "balgam me khoon",
+    "canonical_symptom": "blood in sputum"
+  },
+  {
+    "phrase": "बलगम में खून",
+    "canonical_symptom": "blood in sputum"
+  },
+  {
+    "phrase": "pain behind my eyes",
+    "canonical_symptom": "pain behind eyes"
+  },
+  {
+    "phrase": "pain behind the eyes",
+    "canonical_symptom": "pain behind eyes"
+  },
+  {
+    "phrase": "eye pain behind",
+    "canonical_symptom": "pain behind eyes"
+  },
+  {
+    "phrase": "aankhon ke peeche dard",
+    "canonical_symptom": "pain behind eyes"
+  },
+  {
+    "phrase": "आंखों के पीछे दर्द",
+    "canonical_symptom": "pain behind eyes"
+  },
+  {
+    "phrase": "joints pain",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "painful joints",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "pain in joints",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "pain in my joints",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "bone pain",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "bone breaking pain",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "jodon me dard",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "jodo me dard",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "जोड़ों में दर्द",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "घुटनों में दर्द",
+    "canonical_symptom": "joint pain"
+  },
+  {
+    "phrase": "red spots on skin",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "rash on body",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "rashes on body",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "rashes",
+    "canonical_symptom": "skin rash"
+  },
+  {
+    "phrase": "sweats",
+    "canonical_symptom": "sweating"
+  },
+  {
+    "phrase": "sweating a lot",
+    "canonical_symptom": "sweating"
+  },
+  {
+    "phrase": "excessive sweating",
+    "canonical_symptom": "sweating"
+  },
+  {
+    "phrase": "profuse sweating",
+    "canonical_symptom": "sweating"
+  },
+  {
+    "phrase": "paseena",
+    "canonical_symptom": "sweating"
+  },
+  {
+    "phrase": "पसीना",
+    "canonical_symptom": "sweating"
+  },
+  {
+    "phrase": "fever comes and goes",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "fever on and off",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "fever coming and going",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "intermittent fever",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "fever every other day",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "fever every alternate day",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "fever with shivering",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "bukhar chadhna utarna",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "बुखार चढ़ना उतरना",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "बुखार आता जाता",
+    "canonical_symptom": "fever that comes and goes"
+  },
+  {
+    "phrase": "shivering",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "shiver",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "rigors",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "shivers",
+    "canonical_symptom": "chills"
+  },
+  {
+    "phrase": "fever for days",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "fever for a week",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "fever for several days",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "fever for many days",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "fever not going down",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "fever not coming down",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "fever not reducing",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "persistent fever",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "bukhar utar nahi raha",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "bukhar kai din se",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "बुखार कई दिन",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "बुखार नहीं उतर",
+    "canonical_symptom": "prolonged fever"
+  },
+  {
+    "phrase": "constipated",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "cant poop",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "can t poop",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "hard stools",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "hard stool",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "not passing stool",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "kabz",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "kabj",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "कब्ज",
+    "canonical_symptom": "constipation"
+  },
+  {
+    "phrase": "feeling weak",
+    "canonical_symptom": "weakness"
+  },
+  {
+    "phrase": "body is weak",
+    "canonical_symptom": "weakness"
+  },
+  {
+    "phrase": "very weak",
+    "canonical_symptom": "weakness"
+  },
+  {
+    "phrase": "weak body",
+    "canonical_symptom": "weakness"
+  },
+  {
+    "phrase": "kamzor",
+    "canonical_symptom": "weakness"
+  },
+  {
+    "phrase": "कमजोर",
+    "canonical_symptom": "weakness"
+  },
+  {
+    "phrase": "cant taste",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "can t taste",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "cannot taste",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "no taste",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "lost taste",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "taste gone",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "loss of taste",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "swad nahi",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "स्वाद नहीं",
+    "canonical_symptom": "loss of taste"
+  },
+  {
+    "phrase": "can t smell",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "cannot smell",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "loss of smell",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "lost smell",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "no smell",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "smell gone",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "lost my sense of smell",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "gandh nahi",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "महक नहीं",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "सूंघ नहीं",
+    "canonical_symptom": "reduced sense of smell"
+  },
+  {
+    "phrase": "yellow eyes",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "yellow skin",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "yellowish skin",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "yellowish eyes",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "eyes turned yellow",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "skin turned yellow",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "eyes are yellow",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "skin is yellow",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "jaundice",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "peeli aankhein",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "peeli aankhen",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "aankhein peeli",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "peelia",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "पीलिया",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "पीली आंखें",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "पीली आँखें",
+    "canonical_symptom": "yellowing of skin or eyes"
+  },
+  {
+    "phrase": "tea colored urine",
+    "canonical_symptom": "dark urine"
+  },
+  {
+    "phrase": "tea coloured urine",
+    "canonical_symptom": "dark urine"
+  },
+  {
+    "phrase": "cola colored urine",
+    "canonical_symptom": "dark urine"
+  },
+  {
+    "phrase": "brown urine",
+    "canonical_symptom": "dark urine"
+  },
+  {
+    "phrase": "dark yellow urine",
+    "canonical_symptom": "dark urine"
+  },
+  {
+    "phrase": "peshab ka rang gehra",
+    "canonical_symptom": "dark urine"
+  },
+  {
+    "phrase": "गहरा पेशाब",
+    "canonical_symptom": "dark urine"
+  },
+  {
+    "phrase": "pale stool",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "white stool",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "white stools",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "clay colored stool",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "clay coloured stool",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "light colored stool",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "safed potty",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "safed latrine",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "सफेद मल",
+    "canonical_symptom": "pale stools"
+  },
+  {
+    "phrase": "skin itching",
+    "canonical_symptom": "itchy skin"
+  },
+  {
+    "phrase": "itching all over",
+    "canonical_symptom": "itchy skin"
+  },
+  {
+    "phrase": "itching on body",
+    "canonical_symptom": "itchy skin"
+  },
+  {
+    "phrase": "itchy body",
+    "canonical_symptom": "itchy skin"
+  },
+  {
+    "phrase": "body itching",
+    "canonical_symptom": "itchy skin"
+  },
+  {
+    "phrase": "heart burn",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "acidity",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "acid reflux",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "acid problem",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "acidity problem",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "burning in chest",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "chest burning",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "burning chest",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "seene me jalan",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "sine me jalan",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "सीने में जलन",
+    "canonical_symptom": "heartburn"
+  },
+  {
+    "phrase": "food coming back up",
+    "canonical_symptom": "acid regurgitation"
+  },
+  {
+    "phrase": "food comes back up",
+    "canonical_symptom": "acid regurgitation"
+  },
+  {
+    "phrase": "acid coming up",
+    "canonical_symptom": "acid regurgitation"
+  },
+  {
+    "phrase": "acid in throat",
+    "canonical_symptom": "acid regurgitation"
+  },
+  {
+    "phrase": "regurgitation",
+    "canonical_symptom": "acid regurgitation"
+  },
+  {
+    "phrase": "khana wapas aana",
+    "canonical_symptom": "acid regurgitation"
+  },
+  {
+    "phrase": "खाना वापस",
+    "canonical_symptom": "acid regurgitation"
+  },
+  {
+    "phrase": "sour taste",
+    "canonical_symptom": "sour taste in mouth"
+  },
+  {
+    "phrase": "bitter taste in mouth",
+    "canonical_symptom": "sour taste in mouth"
+  },
+  {
+    "phrase": "khatta paani",
+    "canonical_symptom": "sour taste in mouth"
+  },
+  {
+    "phrase": "khatti dakar",
+    "canonical_symptom": "sour taste in mouth"
+  },
+  {
+    "phrase": "खट्टी डकार",
+    "canonical_symptom": "sour taste in mouth"
+  },
+  {
+    "phrase": "खट्टा पानी",
+    "canonical_symptom": "sour taste in mouth"
+  },
+  {
+    "phrase": "muh me khatta",
+    "canonical_symptom": "sour taste in mouth"
+  },
+  {
+    "phrase": "मुंह में खट्टा",
+    "canonical_symptom": "sour taste in mouth"
+  },
+  {
+    "phrase": "burning sensation in chest",
+    "canonical_symptom": "burning sensation in chest"
+  },
+  {
+    "phrase": "chest burning after eating",
+    "canonical_symptom": "burning sensation in chest"
+  },
+  {
+    "phrase": "burning in my chest",
+    "canonical_symptom": "burning sensation in chest"
+  },
+  {
+    "phrase": "burping",
+    "canonical_symptom": "belching"
+  },
+  {
+    "phrase": "burp",
+    "canonical_symptom": "belching"
+  },
+  {
+    "phrase": "belch",
+    "canonical_symptom": "belching"
+  },
+  {
+    "phrase": "sour burps",
+    "canonical_symptom": "belching"
+  },
+  {
+    "phrase": "dakar",
+    "canonical_symptom": "belching"
+  },
+  {
+    "phrase": "डकार",
+    "canonical_symptom": "belching"
+  },
+  {
+    "phrase": "gas problem",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "gas trouble",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "gas ki problem",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "pet me gas",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "pet phoolna",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "पेट फूलना",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "पेट में गैस",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "gassy",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "stomach bloated",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "bloated stomach",
+    "canonical_symptom": "bloating"
+  },
+  {
+    "phrase": "voice change",
+    "canonical_symptom": "hoarse voice"
+  },
+  {
+    "phrase": "voice cracking",
+    "canonical_symptom": "hoarse voice"
+  },
+  {
+    "phrase": "awaaz baith",
+    "canonical_symptom": "hoarse voice"
+  },
+  {
+    "phrase": "आवाज बैठ",
+    "canonical_symptom": "hoarse voice"
+  },
+  {
+    "phrase": "awaaz bhari",
+    "canonical_symptom": "hoarse voice"
+  },
+  {
+    "phrase": "looking pale",
+    "canonical_symptom": "pale skin"
+  },
+  {
+    "phrase": "skin looks pale",
+    "canonical_symptom": "pale skin"
+  },
+  {
+    "phrase": "paleness",
+    "canonical_symptom": "pale skin"
+  },
+  {
+    "phrase": "pale face",
+    "canonical_symptom": "pale skin"
+  },
+  {
+    "phrase": "chehra peela",
+    "canonical_symptom": "pale skin"
+  },
+  {
+    "phrase": "चेहरा पीला",
+    "canonical_symptom": "pale skin"
+  },
+  {
+    "phrase": "safed pad gaya",
+    "canonical_symptom": "pale skin"
+  },
+  {
+    "phrase": "cold hands",
+    "canonical_symptom": "cold hands and feet"
+  },
+  {
+    "phrase": "cold feet",
+    "canonical_symptom": "cold hands and feet"
+  },
+  {
+    "phrase": "hands and feet are cold",
+    "canonical_symptom": "cold hands and feet"
+  },
+  {
+    "phrase": "hands and feet cold",
+    "canonical_symptom": "cold hands and feet"
+  },
+  {
+    "phrase": "haath pair thande",
+    "canonical_symptom": "cold hands and feet"
+  },
+  {
+    "phrase": "हाथ पैर ठंडे",
+    "canonical_symptom": "cold hands and feet"
+  },
+  {
+    "phrase": "low hemoglobin",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "low haemoglobin",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "low hb",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "hb low",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "hb is low",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "hemoglobin low",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "hemoglobin kam",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "hb kam",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "khoon ki kami",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "खून की कमी",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "हीमोग्लोबिन कम",
+    "canonical_symptom": "low hemoglobin reading"
+  },
+  {
+    "phrase": "blister",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "fluid filled blisters",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "fluid filled bumps",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "water bumps",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "pani wale daane",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "chhale",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "chhala",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "छाले",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "पानी वाले दाने",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "chhoti mata",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "छोटी माता",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "chickenpox",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "chicken pox",
+    "canonical_symptom": "blisters"
+  },
+  {
+    "phrase": "pain in side",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "pain in my side",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "side pain",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "pain in back and side",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "back side pain",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "loin pain",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "pain in flank",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "kidney pain",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "kamar ke side me dard",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "pathri ka dard",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "पथरी का दर्द",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "कमर के साइड में दर्द",
+    "canonical_symptom": "flank pain"
+  },
+  {
+    "phrase": "pain in lower stomach",
+    "canonical_symptom": "lower abdominal pain"
+  },
+  {
+    "phrase": "lower stomach pain",
+    "canonical_symptom": "lower abdominal pain"
+  },
+  {
+    "phrase": "pain in lower belly",
+    "canonical_symptom": "lower abdominal pain"
+  },
+  {
+    "phrase": "lower belly pain",
+    "canonical_symptom": "lower abdominal pain"
+  },
+  {
+    "phrase": "pet ke neeche dard",
+    "canonical_symptom": "lower abdominal pain"
+  },
+  {
+    "phrase": "पेट के नीचे दर्द",
+    "canonical_symptom": "lower abdominal pain"
+  },
+  {
+    "phrase": "bloody urine",
+    "canonical_symptom": "blood in urine"
+  },
+  {
+    "phrase": "red urine",
+    "canonical_symptom": "blood in urine"
+  },
+  {
+    "phrase": "pink urine",
+    "canonical_symptom": "blood in urine"
+  },
+  {
+    "phrase": "urine with blood",
+    "canonical_symptom": "blood in urine"
+  },
+  {
+    "phrase": "peshab me khoon",
+    "canonical_symptom": "blood in urine"
+  },
+  {
+    "phrase": "पेशाब में खून",
+    "canonical_symptom": "blood in urine"
+  },
+  {
+    "phrase": "foggy urine",
+    "canonical_symptom": "cloudy urine"
+  },
+  {
+    "phrase": "milky urine",
+    "canonical_symptom": "cloudy urine"
+  },
+  {
+    "phrase": "turbid urine",
+    "canonical_symptom": "cloudy urine"
+  },
+  {
+    "phrase": "right side stomach pain",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "pain on right side of stomach",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "pain in right lower stomach",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "pain in lower right",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "right lower abdomen",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "pain right side of belly",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "right side belly pain",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "pain on the right side of my stomach",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "pet ke daayen taraf dard",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "पेट के दाईं तरफ दर्द",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "पेट के दाएं तरफ दर्द",
+    "canonical_symptom": "lower right abdominal pain"
+  },
+  {
+    "phrase": "sudden stomach pain",
+    "canonical_symptom": "sudden abdominal pain"
+  },
+  {
+    "phrase": "sudden belly pain",
+    "canonical_symptom": "sudden abdominal pain"
+  },
+  {
+    "phrase": "sudden pain in stomach",
+    "canonical_symptom": "sudden abdominal pain"
+  },
+  {
+    "phrase": "achanak pet dard",
+    "canonical_symptom": "sudden abdominal pain"
+  },
+  {
+    "phrase": "अचानक पेट दर्द",
+    "canonical_symptom": "sudden abdominal pain"
+  },
+  {
+    "phrase": "earache",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "ear ache",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "pain in ear",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "pain in my ear",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "ear is paining",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "kaan me dard",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "kaan dard",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "कान में दर्द",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "कान दर्द",
+    "canonical_symptom": "ear pain"
+  },
+  {
+    "phrase": "pus from ear",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "fluid from ear",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "ear leaking",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "ear is leaking",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "discharge from ear",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "kaan se paani",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "kaan se pani",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "kaan se pus",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "कान से पानी",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "कान से पस",
+    "canonical_symptom": "ear discharge"
+  },
+  {
+    "phrase": "cant hear",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "can t hear",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "hard of hearing",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "hearing loss",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "hearing problem",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "hearing is reduced",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "kam sunai",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "kam sunai deta",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "कम सुनाई",
+    "canonical_symptom": "reduced hearing"
+  },
+  {
+    "phrase": "ear feels blocked",
+    "canonical_symptom": "blocked ear"
+  },
+  {
+    "phrase": "ear blocked",
+    "canonical_symptom": "blocked ear"
+  },
+  {
+    "phrase": "ear fullness",
+    "canonical_symptom": "blocked ear"
+  },
+  {
+    "phrase": "ear feels full",
+    "canonical_symptom": "blocked ear"
+  },
+  {
+    "phrase": "kaan band",
+    "canonical_symptom": "blocked ear"
+  },
+  {
+    "phrase": "kaan band ho gaya",
+    "canonical_symptom": "blocked ear"
+  },
+  {
+    "phrase": "कान बंद",
+    "canonical_symptom": "blocked ear"
+  },
+  {
+    "phrase": "ringworm",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "ring worm",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "daad hai",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "daad ho",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "daad wala",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "daad ki",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "दाद है",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "दाद हो",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "ring like rash",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "circular rash",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "round rash",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "round patch",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "ring shaped patch",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "ring shaped",
+    "canonical_symptom": "ring shaped rash"
+  },
+  {
+    "phrase": "scaly patch",
+    "canonical_symptom": "red scaly patches"
+  },
+  {
+    "phrase": "scaly patches",
+    "canonical_symptom": "red scaly patches"
+  },
+  {
+    "phrase": "scaly skin",
+    "canonical_symptom": "red scaly patches"
+  },
+  {
+    "phrase": "flaky skin",
+    "canonical_symptom": "red scaly patches"
+  },
+  {
+    "phrase": "flaky patches",
+    "canonical_symptom": "red scaly patches"
+  },
+  {
+    "phrase": "red patches on skin",
+    "canonical_symptom": "red scaly patches"
+  },
+  {
+    "phrase": "patches on skin",
+    "canonical_symptom": "red scaly patches"
+  },
+  {
+    "phrase": "peeling skin",
+    "canonical_symptom": "skin peeling"
+  },
+  {
+    "phrase": "skin flaking",
+    "canonical_symptom": "skin peeling"
+  },
+  {
+    "phrase": "skin is peeling",
+    "canonical_symptom": "skin peeling"
+  },
+  {
+    "phrase": "khaal utarna",
+    "canonical_symptom": "skin peeling"
+  },
+  {
+    "phrase": "khaal nikalna",
+    "canonical_symptom": "skin peeling"
+  },
+  {
+    "phrase": "खाल उतरना",
+    "canonical_symptom": "skin peeling"
+  },
+  {
+    "phrase": "itching at night",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "itchy at night",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "night time itching",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "nighttime itching",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "itching worse at night",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "raat ko khujli",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "khujli raat me",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "रात को खुजली",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "scabies",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "khaaj",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "खाज",
+    "canonical_symptom": "severe itching at night"
+  },
+  {
+    "phrase": "itchy bump",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "small itchy bumps",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "red bumps",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "red bump",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "small bumps",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "tiny bumps",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "raised bump",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "raised bumps",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "bump on skin",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "bumps on skin",
+    "canonical_symptom": "itchy bumps"
+  },
+  {
+    "phrase": "itchy between fingers",
+    "canonical_symptom": "rash between fingers"
+  },
+  {
+    "phrase": "rash in finger webs",
+    "canonical_symptom": "rash between fingers"
+  },
+  {
+    "phrase": "finger webs rash",
+    "canonical_symptom": "rash between fingers"
+  },
+  {
+    "phrase": "rash on wrists",
+    "canonical_symptom": "rash between fingers"
+  },
+  {
+    "phrase": "ungliyon ke beech khujli",
+    "canonical_symptom": "rash between fingers"
+  },
+  {
+    "phrase": "उंगलियों के बीच खुजली",
+    "canonical_symptom": "rash between fingers"
+  },
+  {
+    "phrase": "scratch sores",
+    "canonical_symptom": "sores from scratching"
+  },
+  {
+    "phrase": "sores from scratching",
+    "canonical_symptom": "sores from scratching"
+  },
+  {
+    "phrase": "scratch marks",
+    "canonical_symptom": "sores from scratching"
+  },
+  {
+    "phrase": "scratched sores",
+    "canonical_symptom": "sores from scratching"
+  },
+  {
+    "phrase": "scratching sores",
+    "canonical_symptom": "sores from scratching"
+  },
+  {
+    "phrase": "i cut my",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut my finger",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut my hand",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut my leg",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut my foot",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut my arm",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut my knee",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut my thumb",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut myself",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "got a cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "have a cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "got cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "knife cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "blade cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "paper cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "glass cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut by glass",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut by knife",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "cut by blade",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "small cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "deep cut",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "kat gaya",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "kat gayi",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "haath kat",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "ungli kat",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "chaku se kat",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "कट गया",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "कट गई",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "हाथ कट",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "उंगली कट",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "चाकू से कट",
+    "canonical_symptom": "cut wound"
+  },
+  {
+    "phrase": "wound is bleeding",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "bleeding from wound",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "bleeding from cut",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "cut is bleeding",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "bleeding cut",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "wound bleeding",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "zakhm se khoon",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "घाव से खून",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "जख्म से खून",
+    "canonical_symptom": "bleeding wound"
+  },
+  {
+    "phrase": "pain in wound",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "wound hurts",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "cut hurts",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "pain at cut",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "pain at wound",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "wound is paining",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "zakhm me dard",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "ghav me dard",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "घाव में दर्द",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "जख्म में दर्द",
+    "canonical_symptom": "wound pain"
+  },
+  {
+    "phrase": "open wound",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "zakhm",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "ghav",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "जख्म",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "घाव",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "wound is swollen",
+    "canonical_symptom": "swelling around wound"
+  },
+  {
+    "phrase": "swelling near wound",
+    "canonical_symptom": "swelling around wound"
+  },
+  {
+    "phrase": "swollen wound",
+    "canonical_symptom": "swelling around wound"
+  },
+  {
+    "phrase": "swelling at the wound",
+    "canonical_symptom": "swelling around wound"
+  },
+  {
+    "phrase": "wound swelling",
+    "canonical_symptom": "swelling around wound"
+  },
+  {
+    "phrase": "scraped",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "scrape",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "scraping",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "graze",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "grazed",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "skinned my knee",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "scraped my knee",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "scraped my elbow",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "fell and scraped",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "rubbed skin off",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "chhil gaya",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "chhil gayi",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "छिल गया",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "छिल गई",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "rugad lagi",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "रगड़ लगी",
+    "canonical_symptom": "scrape injury"
+  },
+  {
+    "phrase": "slight bleeding",
+    "canonical_symptom": "mild bleeding"
+  },
+  {
+    "phrase": "little bleeding",
+    "canonical_symptom": "mild bleeding"
+  },
+  {
+    "phrase": "minor bleeding",
+    "canonical_symptom": "mild bleeding"
+  },
+  {
+    "phrase": "light bleeding",
+    "canonical_symptom": "mild bleeding"
+  },
+  {
+    "phrase": "bleeding a little",
+    "canonical_symptom": "mild bleeding"
+  },
+  {
+    "phrase": "thoda khoon",
+    "canonical_symptom": "mild bleeding"
+  },
+  {
+    "phrase": "थोड़ा खून",
+    "canonical_symptom": "mild bleeding"
+  },
+  {
+    "phrase": "stinging",
+    "canonical_symptom": "stinging pain"
+  },
+  {
+    "phrase": "stings",
+    "canonical_symptom": "stinging pain"
+  },
+  {
+    "phrase": "sharp stinging",
+    "canonical_symptom": "stinging pain"
+  },
+  {
+    "phrase": "burning and stinging",
+    "canonical_symptom": "stinging pain"
+  },
+  {
+    "phrase": "chubhan",
+    "canonical_symptom": "stinging pain"
+  },
+  {
+    "phrase": "चुभन",
+    "canonical_symptom": "stinging pain"
+  },
+  {
+    "phrase": "raw skin",
+    "canonical_symptom": "raw red skin"
+  },
+  {
+    "phrase": "red raw skin",
+    "canonical_symptom": "raw red skin"
+  },
+  {
+    "phrase": "skin is raw",
+    "canonical_symptom": "raw red skin"
+  },
+  {
+    "phrase": "raw patch",
+    "canonical_symptom": "raw red skin"
+  },
+  {
+    "phrase": "oozing",
+    "canonical_symptom": "clear fluid oozing"
+  },
+  {
+    "phrase": "weeping wound",
+    "canonical_symptom": "clear fluid oozing"
+  },
+  {
+    "phrase": "fluid oozing",
+    "canonical_symptom": "clear fluid oozing"
+  },
+  {
+    "phrase": "pani nikal raha",
+    "canonical_symptom": "clear fluid oozing"
+  },
+  {
+    "phrase": "burnt my",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "burned my",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "burnt myself",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "burned myself",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "got burnt",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "got burned",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "have a burn",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "got a burn",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "a burn on",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "burn on my",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "burn on the",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "minor burn",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "scalded",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "scald",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "hot water burn",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "hot oil burn",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "oil splash",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "boiling water",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "hot oil fell",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "touched hot",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "touched the hot",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "iron burn",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "jal gaya",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "jal gayi",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "haath jal",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "jalne se",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "जल गया",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "जल गई",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "हाथ जल",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "गरम पानी से जल",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "गर्म पानी से जल",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "तेल से जल",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "गर्म तेल",
+    "canonical_symptom": "burn injury"
+  },
+  {
+    "phrase": "skin is red and painful",
+    "canonical_symptom": "red painful area"
+  },
+  {
+    "phrase": "red and painful skin",
+    "canonical_symptom": "red painful area"
+  },
+  {
+    "phrase": "red sore skin",
+    "canonical_symptom": "red painful area"
+  },
+  {
+    "phrase": "painful red skin",
+    "canonical_symptom": "red painful area"
+  },
+  {
+    "phrase": "red hot skin",
+    "canonical_symptom": "red painful area"
+  },
+  {
+    "phrase": "skin burning",
+    "canonical_symptom": "burning pain on skin"
+  },
+  {
+    "phrase": "burning skin",
+    "canonical_symptom": "burning pain on skin"
+  },
+  {
+    "phrase": "burning sensation on skin",
+    "canonical_symptom": "burning pain on skin"
+  },
+  {
+    "phrase": "burning pain on skin",
+    "canonical_symptom": "burning pain on skin"
+  },
+  {
+    "phrase": "twacha me jalan",
+    "canonical_symptom": "burning pain on skin"
+  },
+  {
+    "phrase": "त्वचा में जलन",
+    "canonical_symptom": "burning pain on skin"
+  },
+  {
+    "phrase": "swollen ankle",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "ankle swelling",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "swollen wrist",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "wrist swelling",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "swollen knee",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "knee swelling",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "joint swelling",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "joint is swollen",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "swollen elbow",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "jod me sujan",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "जोड़ में सूजन",
+    "canonical_symptom": "swollen joint"
+  },
+  {
+    "phrase": "pain after injury",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "pain after fall",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "pain after accident",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "hurt myself",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "hurt my",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "got hurt",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "got injured",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "injured my",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "injury",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "injured",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "chot lagi",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "chot lag gayi",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "chot",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "चोट लगी",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "चोट",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "gir gaya",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "gir gayi",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "गिर गया",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "गिर गई",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "fell down",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "i fell down",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "i fell on",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "fell on my",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "fell off",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "fell from",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "fell and",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "after a fall",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "hit my",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "ठोकर",
+    "canonical_symptom": "injury pain"
+  },
+  {
+    "phrase": "bruise",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "bruised",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "bruises",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "black and blue",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "blue mark",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "blue patch",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "purple mark",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "purple patch",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "contusion",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "neela pad gaya",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "neela nishan",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "नीला पड़ गया",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "नीला निशान",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "kala nishan",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "काला निशान",
+    "canonical_symptom": "bruising"
+  },
+  {
+    "phrase": "difficulty moving",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "hard to move",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "painful to move",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "joint stiff",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "joint stiffness",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "stiff joint",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "cant move my",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "can t move my",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "cannot move my",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "unable to move my",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "twisted ankle",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "twisted my ankle",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "ankle twisted",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "rolled my ankle",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "rolled ankle",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "twisted my wrist",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "twisted knee",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "sprained",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "sprain",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "moch",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "मोच",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "moch aa gayi",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "मोच आ गई",
+    "canonical_symptom": "difficulty moving joint"
+  },
+  {
+    "phrase": "looks deformed",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "looks bent",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "limb looks bent",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "arm looks bent",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "leg looks bent",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "bent arm",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "bent leg",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "crooked arm",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "crooked leg",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "deformed",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "bone sticking",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "haath tedha",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "pair tedha",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "हाथ टेढ़ा",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "पैर टेढ़ा",
+    "canonical_symptom": "visible deformity"
+  },
+  {
+    "phrase": "cant walk",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "can t walk",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "cannot walk",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "unable to walk",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "can t stand",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "cannot stand on",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "can t put weight",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "cannot put weight",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "not able to walk",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "chal nahi pa raha",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "chal nahi sakta",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "चल नहीं पा रहा",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "चल नहीं सकता",
+    "canonical_symptom": "unable to bear weight"
+  },
+  {
+    "phrase": "broken bone",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "bone broken",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "broke my",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "broken arm",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "broken leg",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "broken wrist",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "broken finger",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "broken collarbone",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "fracture",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "fractured",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "cracked bone",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "bone crack",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "haddi toot",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "haddi tooti",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "haddi me crack",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "हड्डी टूट",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "हड्डी में क्रैक",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "फ्रैक्चर",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "bone hurts",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "tender bone",
+    "canonical_symptom": "bone tenderness"
+  },
+  {
+    "phrase": "dog bite",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "dog bit",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bitten by a dog",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bitten by dog",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "dog ne kata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "dog ne kaata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "kutte ne kata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "kutte ne kaata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "कुत्ते ने काटा",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "कुत्ते के काटने",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "monkey bite",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bandar ne kata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bandar ne kaata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "बंदर ने काटा",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "cat bite",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "cat scratch",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "cat ne kata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "billi ne kata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "billi ne kaata",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "बिल्ली ने काटा",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "animal bite",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bitten by an animal",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bitten by a cat",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bitten by a monkey",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "stray dog",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "rat bite",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bite mark",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bite marks",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "teeth marks",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "tooth marks",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "dog scratch",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "bat bite",
+    "canonical_symptom": "bite wound"
+  },
+  {
+    "phrase": "puncture",
+    "canonical_symptom": "puncture marks"
+  },
+  {
+    "phrase": "puncture wound",
+    "canonical_symptom": "puncture marks"
+  },
+  {
+    "phrase": "fang marks",
+    "canonical_symptom": "puncture marks"
+  },
+  {
+    "phrase": "two puncture marks",
+    "canonical_symptom": "puncture marks"
+  },
+  {
+    "phrase": "two holes",
+    "canonical_symptom": "puncture marks"
+  },
+  {
+    "phrase": "two small holes",
+    "canonical_symptom": "puncture marks"
+  },
+  {
+    "phrase": "two marks on skin",
+    "canonical_symptom": "puncture marks"
+  },
+  {
+    "phrase": "stepped on a nail",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "nail went in",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "nail in foot",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "nail injury",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "nail prick",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "thorn in",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "thorn prick",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "needle prick",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "needle stick",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "rusty nail",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "pierced",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "kaanta chubh",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "kaanta lag",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "काँटा चुभ",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "कांटा चुभ",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "keel chubh",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "कील चुभ",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "keel lag",
+    "canonical_symptom": "deep narrow wound"
+  },
+  {
+    "phrase": "mosquito bite",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "bitten by a mosquito",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "mosquito bit",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "bee sting",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "stung by a bee",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "wasp sting",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "stung by a wasp",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "stung by",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "hornet",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "ant bite",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "bitten by ants",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "bitten by an ant",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "spider bite",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "tick bite",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "bedbug",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "bed bug",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "flea bite",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "scorpion sting",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "scorpion bite",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "bichhu",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "बिच्छू",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "machhar ne kata",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "machhar ne kaata",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "मच्छर ने काटा",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "madhumakkhi",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "मधुमक्खी",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "bhida",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "tatiya",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "ततैया",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "keede ne kata",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "कीड़े ने काटा",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "कीड़े के काटने",
+    "canonical_symptom": "insect bite"
+  },
+  {
+    "phrase": "nosebleed",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "nose bleed",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "nose bleeding",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "nose is bleeding",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "bleeding nose",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "blood from my nose",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "blood coming from nose",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "naak se khoon",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "naak me se khoon",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "naak se khun",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "नाक से खून",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "नकसीर",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "nakseer",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "naksir",
+    "canonical_symptom": "bleeding from nose"
+  },
+  {
+    "phrase": "blood in nostril",
+    "canonical_symptom": "blood from nostril"
+  },
+  {
+    "phrase": "blood from nostril",
+    "canonical_symptom": "blood from nostril"
+  },
+  {
+    "phrase": "blood dripping from nose",
+    "canonical_symptom": "blood from nostril"
+  },
+  {
+    "phrase": "blood drops from nose",
+    "canonical_symptom": "blood from nostril"
+  },
+  {
+    "phrase": "nose dry",
+    "canonical_symptom": "dry nose"
+  },
+  {
+    "phrase": "nasal dryness",
+    "canonical_symptom": "dry nose"
+  },
+  {
+    "phrase": "dryness in nose",
+    "canonical_symptom": "dry nose"
+  },
+  {
+    "phrase": "naak sookhna",
+    "canonical_symptom": "dry nose"
+  },
+  {
+    "phrase": "नाक सूखना",
+    "canonical_symptom": "dry nose"
+  },
+  {
+    "phrase": "tender",
+    "canonical_symptom": "tenderness"
+  },
+  {
+    "phrase": "tender to touch",
+    "canonical_symptom": "tenderness"
+  },
+  {
+    "phrase": "painful to touch",
+    "canonical_symptom": "tenderness"
+  },
+  {
+    "phrase": "sore to touch",
+    "canonical_symptom": "tenderness"
+  },
+  {
+    "phrase": "touch hurts",
+    "canonical_symptom": "tenderness"
+  },
+  {
+    "phrase": "chhune par dard",
+    "canonical_symptom": "tenderness"
+  },
+  {
+    "phrase": "छूने पर दर्द",
+    "canonical_symptom": "tenderness"
+  },
+  {
+    "phrase": "discolored skin",
+    "canonical_symptom": "skin discoloration"
+  },
+  {
+    "phrase": "discoloured skin",
+    "canonical_symptom": "skin discoloration"
+  },
+  {
+    "phrase": "skin color change",
+    "canonical_symptom": "skin discoloration"
+  },
+  {
+    "phrase": "skin colour change",
+    "canonical_symptom": "skin discoloration"
+  },
+  {
+    "phrase": "skin turned blue",
+    "canonical_symptom": "skin discoloration"
+  },
+  {
+    "phrase": "skin turned purple",
+    "canonical_symptom": "skin discoloration"
+  },
+  {
+    "phrase": "skin turned black",
+    "canonical_symptom": "skin discoloration"
+  },
+  {
+    "phrase": "skin turned dark",
+    "canonical_symptom": "skin discoloration"
+  },
+  {
+    "phrase": "sujan",
+    "canonical_symptom": "swelling"
+  },
+  {
+    "phrase": "सूजन",
+    "canonical_symptom": "swelling"
+  },
+  {
+    "phrase": "sooj gaya",
+    "canonical_symptom": "swelling"
+  },
+  {
+    "phrase": "सूज गया",
+    "canonical_symptom": "swelling"
+  },
+  {
+    "phrase": "droopy eyelids",
+    "canonical_symptom": "drooping eyelids"
+  },
+  {
+    "phrase": "eyelids drooping",
+    "canonical_symptom": "drooping eyelids"
+  },
+  {
+    "phrase": "eyelid drooping",
+    "canonical_symptom": "drooping eyelids"
+  },
+  {
+    "phrase": "eyelids falling",
+    "canonical_symptom": "drooping eyelids"
+  },
+  {
+    "phrase": "palkein girna",
+    "canonical_symptom": "drooping eyelids"
+  },
+  {
+    "phrase": "have a wound",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "got a wound",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "a wound on",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "wound on my",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "wound on the",
+    "canonical_symptom": "open wound"
+  },
+  {
+    "phrase": "wound in my",
+    "canonical_symptom": "open wound"
+  }
+]

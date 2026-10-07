@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MediBuddy — Rule-Based Chatbot of Medivision</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+  <div class="page">
+
+    <div class="chat-card">
+
+      <!-- Header -->
+      <header class="chat-header">
+        <div class="bot-avatar">
+          <svg viewBox="0 0 32 32" fill="none" class="bot-icon" xmlns="http://www.w3.org/2000/svg">
+            <path d="M9 6V15C9 18.3 11.7 21 15 21C18.3 21 21 18.3 21 15V10" stroke="currentColor" stroke-width="2.2"
+              stroke-linecap="round" />
+            <path d="M9 6C9 6 9 4 7 4C5 4 5 6 5 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+            <circle cx="24" cy="10" r="2.6" stroke="currentColor" stroke-width="2" />
+            <circle cx="15" cy="24" r="3" fill="currentColor" />
+          </svg>
+        </div>
+        <div class="header-text">
+          <h1>MediBuddy</h1>
+          <p>Your friendly symptom-guidance assistant</p>
+        </div>
+        <span class="status-dot" title="Rule-based engine ready"></span>
+      </header>
+
+      <!-- Safety strip -->
+      <div class="safety-strip">
+        Rule-based prototype — not a diagnosis. For emergencies, contact local emergency services immediately.
+      </div>
+
+      <!-- Messages -->
+      <main class="chat-window" id="chatWindow">
+        <div class="message bot">
+          <div class="avatar">
+            <svg viewBox="0 0 32 32" fill="none" class="bot-icon" xmlns="http://www.w3.org/2000/svg">
+              <path d="M9 6V15C9 18.3 11.7 21 15 21C18.3 21 21 18.3 21 15V10" stroke="currentColor" stroke-width="2.2"
+                stroke-linecap="round" />
+              <path d="M9 6C9 6 9 4 7 4C5 4 5 6 5 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+              <circle cx="24" cy="10" r="2.6" stroke="currentColor" stroke-width="2" />
+              <circle cx="15" cy="24" r="3" fill="currentColor" />
+            </svg>
+          </div>
+          <div class="bubble">
+            Hi, I'm MediBuddy 👋 Tell me what symptoms you're feeling, and I'll share some
+            possible related information, general care tips, and when to see a doctor.
+          </div>
+        </div>
+      </main>
+
+      <!-- Quick suggestion chips -->
+      <div class="chip-row" id="chipRow">
+        <button class="chip" data-text="I have fever, cough and sore throat">Fever + cough</button>
+        <button class="chip" data-text="My skin is itchy and I have a rash">Skin rash</button>
+        <button class="chip"
+          data-text="I have a severe headache with nausea and light sensitivity">Migraine-like</button>
+        <button class="chip" data-text="I have stomach pain and diarrhea">Stomach issue</button>
+        <button class="chip" data-text="I have severe chest pain">Emergency demo</button>
+      </div>
+
+      <!-- Input -->
+      <form class="chat-input-row" id="chatForm">
+        <input type="text" id="userInput" placeholder="Describe your symptoms... e.g. I have fever and body ache"
+          autocomplete="off" required />
+        <button type="submit" id="sendBtn" aria-label="Send message">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 11.5L20.5 3.5L14 20.5L11 13L3 11.5Z" stroke="currentColor" stroke-width="1.8"
+              stroke-linejoin="round" stroke-linecap="round" />
+          </svg>
+        </button>
+      </form>
+
+      <footer class="footer-note">
+        MediBuddy is a college project prototype. It never provides a confirmed diagnosis or prescription.
+      </footer>
+
+    </div>
+
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>
